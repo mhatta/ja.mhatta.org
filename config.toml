@@ -1,0 +1,35 @@
+author = "Masayuki Hatta"
+baseurl = "https://ja.mhatta.org/"
+disablePathToLower = "true"
+languageCode = "ja"
+title = "Masayuki Hatta a.k.a. mhatta"
+theme = "hugo-theme-bleak"
+enableRobotsTXT = "true"
+hasCJKLanguage = "true"
+
+[permalinks]
+  post = "/blog/:year/:month/:day/:slug/"
+
+[params]
+  Subtitle = "a rogue researcher & hacker wannabe from Japan"
+  description = "Masayuki Hatta's blog in Japanese."
+  cover = "/images/heroBack.jpg"
+
+  googleAnalyticsUserID = "UA-938391-2"
+  googleTagManagerID = "GTM-54MXRC"
+  disqus = "jamhattaorg"
+
+[params.author]
+  firstName = "Masayuki"
+  lastName = "Hatta"
+  gender = "male"
+  userName = "mhatta"
+  image = "//ja.gravatar.com/userimage/1032066/ea3c7befd3ba205b4f8bde16ad63aa1a.jpeg"
+  website = "https://www.mhatta.org/"
+  twitter = "mhatta"
+  github = "mhatta"
+  facebook = "masayuki.hatta"
+  linkedin = "mhatta"
+  gplus = "+MasayukiHatta"
+  gravatarHash = "51db27cbb8060d0e6c45185358099170"
+ 
