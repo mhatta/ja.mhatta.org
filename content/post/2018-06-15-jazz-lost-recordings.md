@@ -35,8 +35,8 @@ description = "ジャズは今も昔もあまり売れない音楽で、マイ�
 最晩年のエリック・ドルフィーというと、1964年6月2日録音の<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01K24FJ1I/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Last Date</a>が有名だが、実際にはその後のレコーディングも存在する。ドナルド・バードやネイサン・ディヴィスを含むセプテットでの6月11日の録音で、かつては「Unrealized Tapes」というタイトルで出回っていたが、今では<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00FEGWTJU/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Last Recordings</a>として知られている。ドルフィーが糖尿病で急死したのは6月27日なので、死のほぼ1ヶ月前の録音ということになる。ジャズ的なスリルという点ではLast Dateの圧勝だが、いつものレパートリーに加え、それまでとは全く作風の違う（かつてのパートナー、ブッカー・リトルのスタイルに似ていると思う）新曲もあり、ドルフィーがどのような方向に向かおうとしていたのか、想像力を喚起させられるような内容ではある。
 
 この録音を仕切ったのはフランス人ピアニストの[ジャック・ディーヴァル](https://en.wikipedia.org/wiki/Jack_Di%C3%A9val)という人で、公表されたもの以外にもかなりの量を録ったらしいのだが、ディーヴァル自身の作品をCBSから発表しない限りテープを渡さないとごねたらしく、それっきりになってしまった。ディーヴァルは2012年に亡くなっていて、テープの所在が良く分からないのだが、おそらく彼の家にあるんじゃないですかねえ。
-x
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fDVQPBvZOeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zjgSHCGBh2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # オーネット・コールマンのタウンホール・コンサートの残り
 

@@ -9,7 +9,7 @@ image = "https://images-na.ssl-images-amazon.com/images/I/41lr6SsT-qL.jpg"
 menu = ""
 share = true
 slug = "sir-charles-thompson"
-tags = ["jazz", "obit"]
+tags = ["jazz", "sir_charles_thompson", "obit"]
 title = "サー・チャールズ・トンプソン"
 
 +++
@@ -83,7 +83,7 @@ title = "サー・チャールズ・トンプソン"
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0037ZF6X6/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41QKPwp6QcL.jpg" alt="マイ・アワー・オブ・ニード" style="border: none;" /></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HUjOlsvfWQ8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V5cu3C0kKo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00822FJBS/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41QqyjLYE3L.jpg" alt="ランドスライド" style="border: none;" /></a>
 
@@ -93,7 +93,7 @@ title = "サー・チャールズ・トンプソン"
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003VLXKFW/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51Ka2eGTu-L.jpg" alt="Hey there (1974) [The Definitive Black & Blue Sessions]" style="border: none;" /></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u5coQfhkhzo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1HnpvVFwJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 どちらかというと90年代以降の最晩年に結構良いアルバムが多かったような気がする。上不三雄氏が運営する日本のレーベル<a href="http://www.marshmallow-records.com/">Marshmallow</a>に残した諸作品も良かったが、1993年にキングレコードで録音した<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000064K8C/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">ロビンズ・ネスト</a>がキャリアを総括するようなピアノ・トリオの名作だったように思う。
 

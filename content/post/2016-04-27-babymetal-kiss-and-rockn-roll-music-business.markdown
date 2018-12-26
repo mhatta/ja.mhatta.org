@@ -15,7 +15,7 @@ description: しばらく体調を崩して寝込んでいた。呼吸器をや�
 
 最近は日本もそうなりつつあると思うが、海外のテレビ番組は結構YouTubeに動画を載せていて、番組全てではないにしろ、コーナー単位なら高画質で楽しめることが多い。で、先日<a href="http://www.cbs.com/shows/the-late-show-with-stephen-colbert/">スティーヴン・コルベアの番組</a>の動画を見ていたら、音作りや演出は若干ハードだけれど基本線は和風アイドルポップスとしか思えない変なグループが突然出てきて度肝を抜かれたのである。それがBABYMETALだった。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tbpJ_kAhQy4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0ERg64grnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 BABYMETALに関しては、<a href="https://twitter.com/pbarakan/status/724405739209392128">最近ピーター・バラカンが何か言った</a>とかで一部で話題になっているようだが、まあBABYMETALが「まがい物ではない」日本のヘヴィメタルの代表だと言われたらそりゃ怒る人もいると思うが（そんなことを主張している奴はいないと思うけど）、J-POPの変わり種としては相当いい線言っていると思うし、実際売れているのだから大したものである。海外でツアーを成功させ、コルベアのような人気テレビ番組に出ているのだから、素直に凄いと思う。
 

@@ -14,7 +14,7 @@ description = "6月29日にジョン・コルトレーンの未発表音源が�
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07D4ZWCHX/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61EAZFYyrRL.jpg" alt="Both Directions at Once: The Lost Album" style="border: none;" /></a>
 
-6月29日にジョン・コルトレーンの未発表音源が出るのだが、音楽メディアのみならず一般の新聞でも[記事になっていて](https://www.asahi.com/articles/ASL665RHML66UCVL017.html)驚いた。同じく未発表音源集のS<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07CXC32ZT/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Stellar Regions</a>が出たときはこんなに話題になったっけ？今や新聞の主要読者層である団塊の世代にはコルトレーンがカリスマ、ということなんだろうか。すでに1曲だけサンプルが公開されているが、これを聞く限り、音質的にも内容的にもなかなか期待できそうである。デイヴ・リーブマンが書きそうなマイナー・ブルース曲というか、印度風味が抜けた<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00BJVQYV8/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Transition</a>という感じでしょうか。どうでもいい話だがヴィジュアライザーがかっこいい。楽理とは関係無く適当に表示しているだけのようだが…。
+6月29日にジョン・コルトレーンの未発表音源が出るのだが、音楽メディアのみならず一般の新聞でも[記事になっていて](https://www.asahi.com/articles/ASL665RHML66UCVL017.html)驚いた。同じく未発表音源集の<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07CXC32ZT/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Stellar Regions</a>が出たときはこんなに話題になったっけ？今や新聞の主要読者層である団塊の世代にはコルトレーンがカリスマ、ということなんだろうか。すでに1曲だけサンプルが公開されているが、これを聞く限り、音質的にも内容的にもなかなか期待できそうである。デイヴ・リーブマンが書きそうなマイナー・ブルース曲というか、印度風味が抜けた<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00BJVQYV8/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Transition</a>という感じでしょうか。どうでもいい話だがヴィジュアライザーがかっこいい。楽理とは関係無く適当に表示しているだけのようだが…。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q7X2X7LDFok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

@@ -25,7 +25,7 @@ featured = false
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00005GWQ0/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41J74YP2TEL.jpg" alt="ジョニー・ハモンド・スミス - レジェンズ・オブ・アシッド・ジャズ" style="border: none;" /></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GAK85zAggD0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iilRi3yDh7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 その後ぼちぼちとECMものも聴いていったが、まあ代表作というか、私が一枚挙げるとしたらArcadeだろうか。
 
