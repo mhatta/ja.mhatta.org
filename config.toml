@@ -7,6 +7,9 @@ theme = "hugo-theme-bleak"
 enableRobotsTXT = "true"
 hasCJKLanguage = "true"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [permalinks]
   post = "/blog/:year/:month/:day/:slug/"
 
