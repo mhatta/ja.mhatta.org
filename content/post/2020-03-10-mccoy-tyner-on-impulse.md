@@ -30,7 +30,7 @@ image = "https://images-na.ssl-images-amazon.com/images/I/413CNPWHPEL.jpg"
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000024Y5Q/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/513OUyRN18L.jpg" alt="Reaching Fourth" style="border: none;" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lk3sq1kGYSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3作目はタイトル通り、バラードや有名スタンダードを素材にくつろいだ演奏というかタイナーなりの引きの美学奏を聴かせるという趣向で、悪いものではないが、やや淡泊か。当時コルトレーンのところでやっていた爆裂音楽とは大分趣きが違うのが面白い。まあ <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01GW0352G/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Ballads</a> とかもあるけれど…。ちなみにImpulse!のタイナー盤は毎回ドラマーが変わっていて、エルヴィン、ロイ、そして今回はレックス・ハンフリーズ。
+3作目はタイトル通り、バラードや有名スタンダードを素材にくつろいだ演奏というかタイナーなりの引きの美学を聴かせるという趣向で、悪いものではないが、やや淡泊か。当時コルトレーンのところでやっていた爆裂音楽とは大分趣きが違うのが面白い。まあ <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01GW0352G/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Ballads</a> とかもあるけれど…。ちなみにImpulse!のタイナー盤は毎回ドラマーが変わっていて、エルヴィン、ロイ、そして今回はレックス・ハンフリーズ。
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01KAPF8SS/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51ZfxUoDpbL.jpg" alt="Nights of Ballads & Blues by MCCOY TYNER" style="border: none;" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XGl6tGDJIWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
