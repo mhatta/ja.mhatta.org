@@ -1,11 +1,20 @@
-author = "Masayuki Hatta"
-baseurl = "https://ja.mhatta.org/"
-disablePathToLower = "true"
-languageCode = "ja"
+baseURL = "https://ja.mhatta.org/"
 title = "Masayuki Hatta a.k.a. mhatta"
-theme = "hugo-theme-bleak"
-enableRobotsTXT = "true"
-hasCJKLanguage = "true"
+author = "Masayuki Hatta"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+theme = "Blonde"
+enableRobotsTXT = true
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+googleAnalytics = "UA-938391-2"
+
+# Disqus Comment System
+disqusShortname = "jamhattaorg"
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -14,26 +23,99 @@ hasCJKLanguage = "true"
   post = "/blog/:year/:month/:day/:slug/"
 
 [params]
-  Subtitle = "a rogue researcher & hacker wannabe from Japan"
-  description = "Masayuki Hatta's blog in Japanese."
-  cover = "/images/heroBack.jpg"
+# The number of articles to be displayed on a single page.
+paginator_pages = "5"
 
-  googleAnalyticsUserID = "UA-938391-2"
-  googleTagManagerID = "GTM-54MXRC"
-  disqus = "jamhattaorg"
-  instagram = "masayukihatta"
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
 
-[params.author]
-  firstName = "Masayuki"
-  lastName = "Hatta"
-  gender = "male"
-  userName = "mhatta"
-  image = "//ja.gravatar.com/userimage/1032066/ea3c7befd3ba205b4f8bde16ad63aa1a.jpeg"
-  website = "https://www.mhatta.org/"
-  github = "mhatta"
-  facebook = "masayuki.hatta"
-  linkedin = "mhatta"
-  gplus = "+MasayukiHatta"
-  twitter = "mhatta"
-  gravatarHash = "51db27cbb8060d0e6c45185358099170"
- 
+# Number of tags to be displayed.
+tagsLimit = 20
+
+  [params.post]
+    # See the Tailwind CSS documentation to set it up.
+    # Recommended settings are h-32 to h-48.
+    # https://tailwindcss.com/docs/height
+    thumbnail_height = "h-48"
+
+    # https://tailwindcss.com/docs/width
+    thumbnail_width = "w-auto"
+
+  [params.widgets]
+    archives = true
+    categories = true
+    tags = true
+    recentposts = false
+    search = false
+
+# If you're using Yandex.Metrica, you can enable this feature.
+#[params.analytics.yandexmetrica]
+#    enabled = true
+#    tagNumber = ''
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/mhatta"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://instagram.com/masayukihatta"
+    weight = 5
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+[build]
+  writeStats = true
