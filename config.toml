@@ -27,7 +27,7 @@ disqusShortname = "jamhattaorg"
 paginator_pages = "5"
 
 # Enable this if you want the archive list to be in a drop-down format.
-archive_dropdown = "false"
+archive_dropdown = "true"
 
 # Number of tags to be displayed.
 tagsLimit = 20
@@ -42,14 +42,14 @@ tagsLimit = 20
     thumbnail_width = "w-auto"
 
   [params.widgets]
-    archives = true
+    archives = false
     categories = true
     tags = true
-    recentposts = false
-    search = false
+    recentposts = true
+    search = true
 
 # If you're using Yandex.Metrica, you can enable this feature.
-#[params.analytics.yandexmetrica]
+[params.analytics.yandexmetrica]
     enabled = true
     tagNumber = '73933261'
 
@@ -80,10 +80,16 @@ tagsLimit = 20
     weight = 4
 
   [[menu.main]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/mhatta/"
+    weight = 5
+
+  [[menu.main]]
     identifier = "instagram"
     name = "Instagram"
     url = "https://instagram.com/masayukihatta"
-    weight = 5
+    weight = 6
 
 [taxonomies]
 category = "categories"

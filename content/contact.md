@@ -9,8 +9,8 @@ author: "Masayuki Hatta"
 {{< rawhtml >}}
 
 <div class="content">
-    <p class="mb-2">To contact us, please fill out the form below.</p>
-    <form name=contact action=https://formspree.io/f/mayjrrko method=post>
+    <p class="mb-2">To contact me, please fill out the form below.</p>
+    <form name=contact action=https://formspree.io/f/mnqoeron method=post>
     <div class="mb-4">
          <input type=text placeholder="Your Name" name=name class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
     </div>
