@@ -49,9 +49,9 @@ tagsLimit = 20
     search = true
 
 # If you're using Yandex.Metrica, you can enable this feature.
-[params.analytics.yandexmetrica]
-    enabled = true
-    tagNumber = '73933261'
+#[params.analytics.yandexmetrica]
+#    enabled = true
+#    tagNumber = '73933261'
 
 [menu]
 
