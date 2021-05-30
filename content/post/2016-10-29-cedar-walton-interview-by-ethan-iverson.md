@@ -15,7 +15,7 @@ title = "イーサン・アイヴァーソンによるシダー・ウォルト�
 +++
 [ザ・バッド・プラス](https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%90%E3%83%83%E3%83%89%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B9)のピアニスト、イーサン・アイヴァーソンはとにかく筆の立つ人で、有能なインタビュアーでもある。ジャズメンのみならず様々な人々をインタビューして、その内容を[自分のサイト](https://ethaniverson.com/)で公開しているが、なかでも2013年に亡くなった[シダー・ウォルトン](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%80%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%B3)の2010年の[インタビュー](https://ethaniverson.com/interview-with-cedar-walton/)が興味深かったので訳してみた。シダーは実力の割に生前も没後もあまり話題にならないが、村上春樹が著書「意味がなければスイングはない」の一章をわざわざ割いて取り上げたことでも分かるように、非常に通好みのピアニストであり、ジャズ史上に名を残す作曲家でもある。おそらくシダーあたりが最後となる「体でジャズを覚えた」世代と、アイヴァーソンを含め「学校でジャズを学んだ」世代の微妙な関係もにじみ出ていておもしろい。翻訳を快諾してくださったアイヴァーソン氏に感謝する。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B017CNDCKW/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51CQY5jdnxL.jpg" alt="意味がなければスイングはない (文春文庫)" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/%E6%84%8F%E5%91%B3%E3%81%8C%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0%E3%81%AF%E3%81%AA%E3%81%84-%E6%96%87%E6%98%A5%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9-ebook/dp/B017CNDCKW?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%84%8F%E5%91%B3%E3%81%8C%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0%E3%81%AF%E3%81%AA%E3%81%84&qid=1622354545&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=7833c1fd26a568253dc484d3b8278c87&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017CNDCKW&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B017CNDCKW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/%E6%84%8F%E5%91%B3%E3%81%8C%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0%E3%81%AF%E3%81%AA%E3%81%84-%E6%96%87%E6%98%A5%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9-ebook/dp/B017CNDCKW?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%84%8F%E5%91%B3%E3%81%8C%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0%E3%81%AF%E3%81%AA%E3%81%84&qid=1622354545&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=7833c1fd26a568253dc484d3b8278c87&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">意味がなければスイングはない (文春文庫) Kindle版</a></p>
 
 -----
 
@@ -131,7 +131,7 @@ EI：うん、そうだろうね。
 
 EI：ディジーの本で、「マイナー6th」コードと「マイナー7thフラット5」について論争があったというのを読みました。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/0816665478/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41eCQjG431L.jpg" alt="To Be, or Not . . . to Bop" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Be-Not-Bop/dp/0816665478?_encoding=UTF8&qid=1622354940&sr=1-4&linkCode=li2&tag=myhumangetsme-22&linkId=d89decd00d7d8eec1a553e6a278e181c&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0816665478&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=0816665478" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Be-Not-Bop/dp/0816665478?_encoding=UTF8&qid=1622354940&sr=1-4&linkCode=li2&tag=myhumangetsme-22&linkId=d89decd00d7d8eec1a553e6a278e181c&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">To Be, or Not . . . to Bop ペーパーバック – イラスト付き, 2009/3/6</a></p>
 
 CW：（笑って）そんな論争があったのかい。
 
@@ -163,7 +163,7 @@ EI：そういう見方はアーマッド・ジャマルに由来するもので
 
 CW：あー、そうだね。正しいものの考え方をするピアノ弾きでアーマッドをチェックしない奴なんて考えられないよ。うん、もちろんそうだ。ジャマルには神秘がある。彼が「ライヴ・アット・パーシング」とか、ああいうものすごく成功したレコーディングをやっていたとき、君はまだ生まれていなかっただろうね。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009CXBRBW/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51LFVHw8M1L.jpg" alt="At the Pershing-But Not for Me" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Complete-Pershing-Lounge-Bonus-Track/dp/B00CECKJSK?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=ahmad+jamal+at+the+pershing&qid=1622354821&s=music&sr=1-4&linkCode=li2&tag=myhumangetsme-22&linkId=f4c610b92caf9d5fcb42216972726f77&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CECKJSK&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B00CECKJSK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Complete-Pershing-Lounge-Bonus-Track/dp/B00CECKJSK?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=ahmad+jamal+at+the+pershing&qid=1622354821&s=music&sr=1-4&linkCode=li2&tag=myhumangetsme-22&linkId=f4c610b92caf9d5fcb42216972726f77&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Complete Live At The Pershing Lounge 1958 + 1 Bonus Track</a></p>
 
 『ウッディン・ユー』に関して言えば、ディジー・ガレスピーは8万ドルの小切手をもらったと言っていたよ。ジャマルのレコードがものすごい売れたのでね。
 
@@ -231,7 +231,9 @@ EI：ええ、「マイルストーンズ」ではトリオ曲がありました
 
 CW：あれは素晴らしいレコードだったね。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001U14IO2/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51YaC9NB23L.jpg" alt="MILESTONES" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/MILESTONES-MILES-DAVIS/dp/B001U14IO2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=miles+davis+milestones&qid=1622355028&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=bb30f40d4deb84adf93d995fb3fef13a&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001U14IO2&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B001U14IO2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/MILESTONES-MILES-DAVIS/dp/B001U14IO2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=miles+davis+milestones&qid=1622355028&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=bb30f40d4deb84adf93d995fb3fef13a&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">MILESTONES</a></p>
+
+<iframe src="https://open.spotify.com/embed/album/56I4vUYWQ4aXLiyfo8XuZv" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 EI：あなたの世代のジャズメンは、プレスティッジやコロンビアのマイルスやコルトレーンのレコードをバイブルみたいに思っていたようですね。
 
@@ -265,8 +267,9 @@ CW：うん、たぶん『テンダリー』がそうだね。間奏を入れた
 
 EI：多くの人間は、あなたがエルヴィンとレイ・ブラウンと作ったトリオ・レコード、「サムシング・フォー・レスター」を知っていると思います。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00BHFO4MM/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51zkP6%2BaScL.jpg" alt="Something For Lester" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Something-Lester-Ray-Brown/dp/B000000YMW?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=something+for+lester&qid=1622355110&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=f6d8799a40bb6442ed5dd10585d074e7&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000000YMW&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B000000YMW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Something-Lester-Ray-Brown/dp/B000000YMW?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=something+for+lester&qid=1622355110&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=f6d8799a40bb6442ed5dd10585d074e7&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Something for Lester</a></p>
 
+<iframe src="https://open.spotify.com/embed/album/2wNqGCuFCCzPXm3lRmO2PC" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 CW：うん、あのセッションはとても楽しかった。ただ、私はあれはエルヴィン名義のレコードになるんだろうと思いこんでいたんだ。だから、何曲かドラムスが活躍するような曲を準備していった。で、実はあれがレイのレコードだと知って、「ありゃりゃ」と思ったよ。だから、私は出来る限りの調整を行った。多くの人があのレコードが好きみたいだね。私の友達のジェイヴォン・ジャクソンはいつも言うんだ、「レイとエルヴィンはあんまり相性良くないんですが、でもあなたが二人をくっつけているんですね」私は言う、「んーそうかね？ありがとう」
 
@@ -298,7 +301,9 @@ CW：おお、それはまた大したお世辞だね。
 
 『テーマ・フロム・ラブ・ストーリー』、サム・ジョーンズとビリー・ヒギンズとの共演、1972年。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0000AOV4T/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51zcFf6%2BOGL.jpg" alt="Breakthrough" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Breakthrough-Cedar-Walton/dp/B0000AOV4T?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hank+mobley+breakthrough&qid=1622355167&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=729398cda1e6eda61d97cbf83ba6f074&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AOV4T&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B0000AOV4T" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Breakthrough-Cedar-Walton/dp/B0000AOV4T?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hank+mobley+breakthrough&qid=1622355167&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=729398cda1e6eda61d97cbf83ba6f074&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Breakthrough</a></p>
+
+<iframe src="https://open.spotify.com/embed/album/5zRud2fGPkdeuI9ENc9ddQ" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 CW：ああ、これね。覚えているよ。ベースはサム・ジョーンズかな？
 
@@ -336,7 +341,9 @@ CW：えらい小難しい説明だね！
 
 『四月の思い出』、クリフォード・ジョーダン、サム・ジョーンズ、ルイ・ヘイズとの共演。1973年。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01G47HATQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51Bmpj5vU-L.jpg" alt="Naima - Recorded Live at Boomer's NYC by Cedar Walton" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Naima-Recorded-Boomers-Cedar-Walton/dp/B01G47HATQ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Naima+Cedar+Walton&qid=1622355340&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=2449522a70f4790010c2f4e1e2f6bdca&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01G47HATQ&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B01G47HATQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Naima-Recorded-Boomers-Cedar-Walton/dp/B01G47HATQ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Naima+Cedar+Walton&qid=1622355340&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=2449522a70f4790010c2f4e1e2f6bdca&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Naima - Recorded Live at Boomer's NYC by Cedar Walton</a></p>
+
+<iframe src="https://open.spotify.com/embed/album/4sKLgQ58OOPE3ZZeP07qon" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 CW：これは「ブーマーズ」での演奏かな？
 
@@ -372,7 +379,7 @@ EI：あなたは「ジャズテット・プレイズ・ジョン・ルイス」
 
 CW：それは面白いね。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CHRB58A/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51j-vm8tggL.jpg" alt="Here and Now / Another Git Together / The Jazztet & John Lewis" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Art-Farmer-Jazztet-Another-Together/dp/B01G477L2W?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Jazztet+plays+John+Lewis&qid=1622355428&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=d902a58fe69982f1605c8366f8483cff&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01G477L2W&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B01G477L2W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Art-Farmer-Jazztet-Another-Together/dp/B01G477L2W?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Jazztet+plays+John+Lewis&qid=1622355428&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=d902a58fe69982f1605c8366f8483cff&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Art Farmer - Benny Golson Jazztet. Here & Now / Another Git Together / Plays John Lewis by Art Farmer</a></p>
 
 EI：ジョン・ルイスと働くのはどうでしたか？
 
@@ -382,17 +389,21 @@ EI：ピアノ・プレーヤーについて話してきましたが、ジョン
 
 CW：うん、彼のイントロだね。『ウィスパリング』とか素晴らしいね。マイルス・デイヴィスの曲だけど、君が聞いたことがあるかは知らないが。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a75WCuZCTrM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKgjan1XhLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 パーシー・ヒースが教えてくれたんだが、ジョン・ルイスがディジーのところで演奏したとき、劇場で演奏していたときには、みんなカーテンのところに集まってジョン・ルイスのソロを聴いていたそうだよ。彼は本当に素晴らしく演奏した。彼がMJQとかなんかそういうふうに呼ばれていたものを組織したとき、いろいろ変えなければならなかった。元々ミルト・ジャクソン・カルテットだった。うまいことにイニシャルは変えなくて済んだ。あれは、ディジー・ガレスピー・オーケストラのリズムセクションが独立しただけなんだ。レイ・ブラウンはちょっとだけいて、すぐにエラ・フィッツジェラルドのところに移った。それでパーシーが参加したんだ。私は「ジャンゴ」の大ファンで、ケニー・クラークと作ったあのあたりの初期のレコードが好きだな。そしてもちろんケニーはフランスに移住したんで、コニー・ケイが入ったんだ。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000EMGIJ6/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51ZOc9k51zL.jpg" alt="Django (Reis)" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Django-Modern-Jazz-Quartet/dp/B000000Y3K?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MJQ+Django&qid=1622355653&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=450f73acce329da28bac33f1eeebf566&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000000Y3K&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B000000Y3K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Django-Modern-Jazz-Quartet/dp/B000000Y3K?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MJQ+Django&qid=1622355653&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=450f73acce329da28bac33f1eeebf566&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Django</a></p>
+
+<iframe src="https://open.spotify.com/embed/album/6f7NUwHcqKOtROS8JippAp" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 EI： 次のレコードは、ジャズにおけるタイムの本物のお手本ですね。特にこれはドラムスが入っていませんから。
 
 『フランキー・アンド・ジョニー』、ロン・カーターとの共演。1981年。
 
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00436M5WS/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51ueGQKcyQL.jpg" alt="Heart & Soul" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/Heart-CEDAR-CARTER-WALTON-2015-09-16/dp/B01KAT1ZEA?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Heart+Soul+Ron+Carter&qid=1622355727&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=f2debb9b7b1e782fd3e1e2c494e23449&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KAT1ZEA&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B01KAT1ZEA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Heart-CEDAR-CARTER-WALTON-2015-09-16/dp/B01KAT1ZEA?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Heart+Soul+Ron+Carter&qid=1622355727&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=f2debb9b7b1e782fd3e1e2c494e23449&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Heart & Soul by CEDAR / CARTER,RON WALTON (2015-09-16)</a></p>
+
+<iframe src="https://open.spotify.com/embed/album/3Pxvy61lY9JVexRoeLugQb" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 あなたの左手はちょっとリズム・ギターのように聞こえますね。
 
