@@ -4,10 +4,10 @@ comments: true
 date: 2016-01-05T18:03:18Z
 title: ポール・ブレイのかっこ良すぎる60年代ピアノ・トリオ
 url: /blog//2016/01/05/paul-bleys-hardcore-piano-trios-in-1960s/
-image: "http://ecx.images-amazon.com/images/I/51z7RKRSrnL.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/416BC0R9VBL._AC_.jpg"
 description: ポール・ブレイが1月3日に亡くなった。83歳。ブレイは私が最も好きなピアニストの一人なので、いろいろ言いたいことはあるのだが、とりあえず以前から少し温めていた話を少しずつ書いていこうと思う。
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003VL9KQ0/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51z7RKRSrnL.jpg" alt="Ramblin'" style="border: none;" /></a>
+<p><a href="https://www.amazon.co.jp/RAMBLIN-PAUL-BLEY/dp/B000000G3U?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Paul+Bley+Ramblin%27&qid=1622985624&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=1f863d5f5734271e3725932f5762ba49&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000000G3U&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B000000G3U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/RAMBLIN-PAUL-BLEY/dp/B000000G3U?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Paul+Bley+Ramblin%27&qid=1622985624&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=1f863d5f5734271e3725932f5762ba49&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">RAMBLIN'</a></p>
 
 <a href="https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4">ポール・ブレイ</a>が1月3日に亡くなった（<a href="http://ottawacitizen.com/entertainment/music/jazzblog/r-i-p-paul-bley">Ottawa Citizenの記事</a>）。83歳。
 
@@ -31,10 +31,12 @@ description: ポール・ブレイが1月3日に亡くなった。83歳。ブレ
 
 60年代のブレイの仕事は、ある程度はCD化やMP3化されているものの、あまりまとまった形では再発されていないし、手に入りにくいものも多い。同じ録音が違うタイトルで、あるいは異なる録音が同じタイトルでリリースされたことすらある。レパートリーやメンツがある程度固定されているので、混乱を招きやすいのだとは思うが、残念なことである。というか私も完全に把握しているかどうか自信がないのだが、録音年月日を手がかりに整理すると、おそらく60年代のピアノ・トリオ作は以下の通りである。かっこ内は代表的なアルバム・タイトル。再発のたびにレーベルやタイトルが変わっていることもあるので…。
 
-* 1965年11月5日、デンマーク・コペンハーゲン録音（「Touching」）
-* 1965年12月12日、ニューヨーク録音（「Closer」）
-* 1966年7月1日、イタリア・ローマ録音（「Ramblin'」）
+* [1965年11月5日、デンマーク・コペンハーゲン録音（「Touching」）](https://ja.mhatta.org/blog/2017/01/09/touching-by-paul-bley/)
+* [1965年12月12日、ニューヨーク録音（「Closer」）](https://ja.mhatta.org/blog/2017/01/15/closer-by-paul-bley/)
+* [1966年7月1日、イタリア・ローマ録音（「Ramblin'」）](https://ja.mhatta.org/blog/2017/08/28/ramblin-by-paul-bley/)
+* [1966年8月31日、スイス・ルガーノ録音（「Festival International De Jazz」）](https://ja.mhatta.org/blog/2021/06/07/2021-06-07-festival-international-de-jazz-lugano-31-august-1966-by-paul-bley/)
 * 1966年9月21日および10月4日、オランダ・バーン録音（「Blood」）
+* 1966年9月27日、ドイツ・ブレーメン録音（「Bremen '66」)
 * 1966年11月4日、オランダ・ハーレム録音（「In Haarlem」）
 * 1967年3月31日、ニューヨーク録音（「Ballads」）
 * 1967年7月28日、ニューヨーク録音（「Virtuosi」）
