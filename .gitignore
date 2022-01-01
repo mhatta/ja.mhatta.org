@@ -1,5 +1,11 @@
 public
+resources
 *.swp
 *~
-upload.sh
-upload.ja.mhatta.org.sh
+node_modules
+
+package.json
+package-lock.json
+.hugo_build.lock
+postcss.config.js
+tailwind.config.js

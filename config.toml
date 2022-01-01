@@ -23,6 +23,13 @@ disqusShortname = "jamhattaorg"
   post = "/blog/:year/:month/:day/:slug/"
 
 [params]
+# Base color of the website.
+# https://tailwindcss.com/docs/background-color
+base_color = "bg-gray-800"
+
+#Site description
+description = "Masayuki Hatta's blog."
+
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
 
@@ -31,6 +38,10 @@ archive_dropdown = "true"
 
 # Number of tags to be displayed.
 tagsLimit = 20
+
+# Dark mode by default : dark
+# Light mode by default : light
+darkmode = "light"
 
   [params.post]
     # Show thumbnails
@@ -42,20 +53,26 @@ tagsLimit = 20
     # See the Tailwind CSS documentation to set it up.
     # Recommended settings are h-32 to h-48.
     # https://tailwindcss.com/docs/height
-    thumbnail_height = "h-36"
+    thumbnail_height = "lg:h-44"
 
     # https://tailwindcss.com/docs/width
-    thumbnail_width = "w-auto"
+    thumbnail_width = "lg:w-auto"
 
     # Number of characters in description
     description = "130"
 
   [params.widgets]
-    archives = false
-    categories = true
-    tags = true
-    recentposts = true
-    search = true
+    # Display widgets
+    display = true
+
+    # Order of widgets to display
+    widgets = ["search", "archive", "category", "tags", "recent"]
+
+    #archives = false
+    #categories = true
+    #tags = true
+    #recentposts = true
+    #search = true
 
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]
@@ -132,5 +149,5 @@ archive = "archives"
   [services.twitter]
     disableInlineCSS = true
 
-[build]
-  writeStats = true
+#[build]
+#  writeStats = true
