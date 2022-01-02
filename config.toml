@@ -68,12 +68,6 @@ darkmode = "light"
     # Order of widgets to display
     widgets = ["search", "archive", "category", "tags", "recent"]
 
-    #archives = false
-    #categories = true
-    #tags = true
-    #recentposts = true
-    #search = true
-
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]
 #    enabled = true
@@ -149,5 +143,5 @@ archive = "archives"
   [services.twitter]
     disableInlineCSS = true
 
-#[build]
-#  writeStats = true
+[build]
+  writeStats = true
