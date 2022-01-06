@@ -4,7 +4,7 @@ author = ["Masayuki Hatta"]
 date = 2021-06-07T00:45:00+09:00
 tags = ["jazz", "paul-bley"]
 draft = false
-slug = "2021-06-07-festival-international-de-jazz-lugano-31-august-1966-by-paul-bley"
+slug = "festival-international-de-jazz-lugano-31-august-1966-by-paul-bley"
 image = "https://images-na.ssl-images-amazon.com/images/I/51txKRr1u%2BL._AC_.jpg"
 +++
 
