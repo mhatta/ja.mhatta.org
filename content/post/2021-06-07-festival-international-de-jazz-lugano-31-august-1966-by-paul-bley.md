@@ -6,6 +6,7 @@ tags = ["jazz", "paul-bley"]
 draft = false
 slug = "festival-international-de-jazz-lugano-31-august-1966-by-paul-bley"
 image = "https://images-na.ssl-images-amazon.com/images/I/51txKRr1u%2BL._AC_.jpg"
+archives = ["2021/06"]
 +++
 
 [前回](https://ja.mhatta.org/blog/2017/08/28/ramblin-by-paul-bley/)60年代中盤のポール・ブレイ・トリオについて書いてから4年も経ってしまったわけですが（[目次](https://ja.mhatta.org/blog/2016/01/05/paul-bleys-hardcore-piano-trios-in-1960s/)）、それから今までの間に、この時期に関しては2枚の未発表録音が出た。どちらもライヴ盤だが、音質も良く出来も良い。

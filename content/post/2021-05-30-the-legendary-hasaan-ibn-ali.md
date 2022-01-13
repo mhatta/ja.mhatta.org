@@ -6,6 +6,7 @@ tags = ["jazz", "hasaan-ibn-ali"]
 draft = false
 slug = "the-legendary-hasaan-ibn-ali"
 image = "https://images-na.ssl-images-amazon.com/images/I/61og3tABf7S._AC_SL1200_.jpg"
+archives = ["2021/05"]
 +++
 
 <p><a href="https://www.amazon.co.jp/Metaphysics-Atlantic-Album-Hasaan-Ali/dp/B08KR71VNS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hasaan+ibn+ali&qid=1622350078&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=e5420aa2fbeacede5a65c1eb3ff73bdb&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KR71VNS&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B08KR71VNS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Metaphysics-Atlantic-Album-Hasaan-Ali/dp/B08KR71VNS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hasaan+ibn+ali&qid=1622350078&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=e5420aa2fbeacede5a65c1eb3ff73bdb&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Metaphysics: The Lost Atlantic Album</a></p>

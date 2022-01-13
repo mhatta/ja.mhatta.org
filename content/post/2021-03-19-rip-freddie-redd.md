@@ -6,6 +6,7 @@ tags = ["jazz", "obit", "freddie-redd"]
 draft = false
 slug = "rip-freddie-redd"
 image = "https://images-na.ssl-images-amazon.com/images/I/41PdqUmEg0L._AC_.jpg"
+archives = ["2021/03"]
 +++
 
 ジャズ・ピアニストのフレディ・レッドが亡くなった。享年92。
