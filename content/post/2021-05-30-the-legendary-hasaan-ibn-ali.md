@@ -9,8 +9,6 @@ image = "https://images-na.ssl-images-amazon.com/images/I/61og3tABf7S._AC_SL1200
 archives = ["2021/05"]
 +++
 
-<p><a href="https://www.amazon.co.jp/Metaphysics-Atlantic-Album-Hasaan-Ali/dp/B08KR71VNS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hasaan+ibn+ali&qid=1622350078&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=e5420aa2fbeacede5a65c1eb3ff73bdb&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KR71VNS&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B08KR71VNS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Metaphysics-Atlantic-Album-Hasaan-Ali/dp/B08KR71VNS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hasaan+ibn+ali&qid=1622350078&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=e5420aa2fbeacede5a65c1eb3ff73bdb&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Metaphysics: The Lost Atlantic Album</a></p>
-
 アメリカのレコード業界は音源の物理的管理という点では甚だまずく、かつては紛失や盗難が日常茶飯事だったようだし（だからブートレグになって流出する）、数度にわたってセッション・テープを焼失させる火災も起こしている。1978年の火災ではAtlanticレーベルのテープがあらかた燃えてしまい、2008年にはUniversalの倉庫が燃えてしまった。
 
 このハサーン・イブン・アリの未発表音源も、Atlanticのテープ倉庫火災で消滅したと思われていたのだが、なぜか今年になってひょっこり出てきた。今ひとつ経緯がよく分からないのだが、とにかくある時点でアセテート盤としてコピーが作られ、さらにそのコピーがなぜかWarnerのテープ倉庫に紛れ込んでいたということのようである。
@@ -25,7 +23,7 @@ archives = ["2021/05"]
 
 {{< youtube 4pYqbRGZXxE >}}
 
-<iframe src="https://open.spotify.com/embed/album/5PRPdUdfuX532COPYP5AUX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5PRPdUdfuX532COPYP5AUX?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 この余勢を駆って翌1965年、Atlanticにもう一枚ぶん録音したのは知られていたのだが、直後にハサーンは薬物所持で逮捕され、Atlanticの経営陣はツアーなどプロモーションの機会が失われたと判断したらしく、お蔵入りになってしまった。その後70年代にはプロデューサー業にも興味をもっていたラサーン・ローランド・カークがリリースの可能性を探っていたようだが（カークが聞くために用意されたのが件のアセテート盤やそのコピーだった可能性はある）、結局現実化はせず、その後の倉庫火事でテープは焼滅したと思われていた。
 
@@ -40,3 +38,5 @@ archives = ["2021/05"]
 リズム・セクションは優秀で、ハサーンのへんてこな曲にうまく合わせている。特にアート・デイヴィスのベースワークは驚異的だし、カリル・マディも輝いている。 このカルテットはユニットとして非常にタイトなので、一回でもライヴをやって録音しておいてくれたらなあとは思うわけですが。
 
 作曲の面で出色なのは「Viceroy」だろうか。「Mean To Me」の進行をベースにしているが、ハサーン節というのか、こちらの予想をことごとく裏切るような展開を見せる。今回登場した7曲ぶんだけジャズは豊かになったような気がしますね。
+
+<p><a href="https://www.amazon.co.jp/Metaphysics-Atlantic-Album-Hasaan-Ali/dp/B08KR71VNS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hasaan+ibn+ali&qid=1622350078&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=e5420aa2fbeacede5a65c1eb3ff73bdb&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08KR71VNS&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B08KR71VNS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/Metaphysics-Atlantic-Album-Hasaan-Ali/dp/B08KR71VNS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=hasaan+ibn+ali&qid=1622350078&sr=8-2&linkCode=li2&tag=myhumangetsme-22&linkId=e5420aa2fbeacede5a65c1eb3ff73bdb&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">Metaphysics: The Lost Atlantic Album</a></p>

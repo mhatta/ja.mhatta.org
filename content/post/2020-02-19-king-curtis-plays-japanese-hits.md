@@ -9,6 +9,7 @@ slug = "king-curtis-plays-japanese-hits"
 share = true
 featured = false
 image = "https://upload.wikimedia.org/wikipedia/commons/b/b5/King_Curtis.png"
+archives = ["2020/02"]
 +++
 
 [名門Atlanticレーベルのディスコグラフィ](https://www.jazzdisco.org/atlantic-records/)を隅から隅まで読んだことがある人（日本で推定10人くらい）なら、以下のセッション・データを見ておそらく一度くらいは妄想を膨らませたことがあるのではないか。
@@ -50,7 +51,7 @@ Romeo Penque, flute, oboe; King Curtis, tenor, alto sax; Ernie Hayes, organ, pia
 
 さて、私は素直な人間なので最近まで本当に未発表だと思い込んでいたのだが、ひょんなことからこの音源のLPが実在することを知った。それどころかYouTubeにあった。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0WNp9ZZoaBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube 0WNp9ZZoaBs >}}
 
 邦題は「君だけに愛を」で、一応King Curtis Plays Japanese Hitsという英語タイトルもついていたようだ。日本限定のLPだったせいか今でもオフィシャルにはunissued扱いで、数年前に出た <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0167AL848/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">カーティスのコンプリートAtcoシングルセット</a> にも入っていないと思う。CD化もされていないでしょうねえ。
 

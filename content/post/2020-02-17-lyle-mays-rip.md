@@ -8,7 +8,8 @@ draft = false
 slug = "rip-lyle-mays"
 share = true
 featured = false
-image = "https://upload.wikimedia.org/wikipedia/commons/0/09/Lyle_Mays.jpg"
+image = "https://m.media-amazon.com/images/I/51SCLHx7N1L._AC_.jpg"
+archives = ["2020/02"]
 +++
 
 数日前のことだが、[ライル・メイズ](https://ja.wikipedia.org/wiki/%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25BA)が亡くなったと聞いて驚いた。66歳とのことで、今では若死にの部類だろう。
@@ -22,11 +23,15 @@ image = "https://upload.wikimedia.org/wikipedia/commons/0/09/Lyle_Mays.jpg"
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000026255/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/5169Geh1a5L.jpg" alt="As Falls Wichita So Falls Wichita Falls" style="border: none;" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvrz_IfL_Ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7EG8IjKyPecEgyqbAH5B04?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 何か特定の風景や事象を具体的に表現しているわけではないのだが（曲のタイトルは地名だったりビル・エヴァンスの命日だったりするけれど）、それでもなおイメージ喚起力の強い音楽で、逆にアメリカの片田舎をてくてく歩いていると、このアルバムの音響の一部がふと頭をよぎることがある。ピアニストとしても、そこかしこで印象的なソロを取っている。
 
 Geffenレーベルに残した自己名義の作品の中では、豪華なメンバを揃えた <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000000OR2/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank">Street Dreams</a> なども悪くなかったが、マーク・ジョンソン、ジャック・デジョネットという重量級のサイドメンを従えたピアノ・トリオで存分に弾きまくったFictionaryが一番だろうか。
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0000508WL/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51I7WAm5DrL.jpg" alt="Fictionary" style="border: none;" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z0P4labTz44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2pnww9tJ95e6pl5CZfyWcI?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ここでもキース・ジャレットっぽかったり、チック・コリア風だったり、あるいはハービー・ハンコック的な一瞬もあったりして、さらにはビル・エヴァンスやポール・ブレイの影もよぎるという具合にいかにもつかみどころがないのだが、では彼ら先人たちの単なるつぎはぎコピーなのかというとそうでもなくて、全体としてはメイズの音楽としか言いようがない霞んだ空気をまとっている。ジャズ・ピアノの伝統とは多分に切り離されているのだが、いわば「かつてジャズであったもの」を構成要素として駆使し、自分なりの表現に昇華させていくという点で、同じように伝統から遠くなった最近の若手「ジャズ」ミュージシャンたちのあり方を先取りしていたのかもしれない。

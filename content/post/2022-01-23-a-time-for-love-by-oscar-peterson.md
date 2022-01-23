@@ -3,7 +3,7 @@ title: "A Time For Love / Oscar Peterson"
 description: ""
 image: "https://m.media-amazon.com/images/I/71CTPVIz+vL._AC_SL1280_.jpg"
 tags: ["jazz", "oscar-peterson"]
-slug: "2022-01-23-a-time-for-love-by-oscar-peterson"
+slug: "a-time-for-love-by-oscar-peterson"
 author: "Masayuki Hatta"
 draft: false
 date: 2022-01-23
