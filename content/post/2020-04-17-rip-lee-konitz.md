@@ -9,32 +9,38 @@ share = true
 featured = false
 slug = "rip-lee-konitz"
 image = "https://images-na.ssl-images-amazon.com/images/I/51O7KQOCB5L._AC_.jpg"
+archives = ["2020/04"]
 +++
-
-<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4907583443/myhumangetsme-22/" name="amachazllink" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51ipT4QgIFL.jpg" alt="リー・コニッツ ジャズ・インプロヴァイザーの軌跡" style="border: none;" /></a>
 
 このところ音楽関係者も次々と新型コロナウイルスの犠牲となっているが、[リー・コニッツ](https://en.wikipedia.org/wiki/Lee%5FKonitz)も亡くなってしまった。去年くらいまで普通にライヴで演奏していたので突然の死という感じもするが、改めて考えてみるととうに90歳を越えていた（享年92）わけで、怪物である。
 
 チャーリー・パーカーを別とすれば、コニッツは私が最も好きなアルト・サックス奏者なのだが、コニッツの良さはなかなか伝わりにくいというか、とっつきにくいところがあるとは思う。その理由の一つは、たぶん彼のスタイルがジャズ・アルト・サックスの主流と明確に異なるからだろう。ほぼ全てのアルト吹きが多かれ少なかれチャーリー・パーカーの影響下にあったと言って良いビバップ以降のジャズの歴史において、コニッツはパーカーとは全く違う、しかし同じくらい魅力的な音色とフレーズ、タイム感、そして美学を備えた数少ないスタイリストだった。個性的である、というのは、少なくとも私にとってはジャズにおける最も重要な価値基準なのだが、コニッツはその点、史上最高ランクにある。ちなみにコニッツとパーカーは7歳違うが友人同士で、パーカーが晩年に録音したRelaxin' With Leeは、確証はないもののコニッツにちなんだタイトルではないかと言われている。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tK1MKWvV58w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube tK1MKWvV58w >}}
+
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01E0DN9FU/myhumangetsme-22/" name="amachazllink" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51PV+vo3NCL.jpg" alt="バード・アンド・ディズ+3" style="border: none;" /></a>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7LVNnSl6UhjkLepWoPLqg1?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 さて、コニッツがプロになったのは1945年だというが、最初の重要な仕事は1947年のクロード・ソーンヒル・オーケストラの録音ではないかと思う。ギル・エヴァンスがアレンジャーだったことでも知られるこの楽団で、若干二十歳のコニッツは早くも個性的なソロをとっている。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FvRB_iSU4T8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube FvRB_iSU4T8 >}}
+
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B000028EEA/myhumangetsme-22/" name="amachazllink" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51FMVARDFPL._SL500_.jpg" alt="Real Birth of." style="border: none;" /></a>
 
 Anthropologyのような典型的なビバップ曲の、全くビバップ的ではないふんわりした解釈は、ある意味コニッツの独壇場ですね。ソーンヒルのピアノ・イントロも印象的。
 
 コニッツと言えば、これまた孤高のピアニストであるレニー・トリスターノとの師弟関係と、同じくトリスターノの高弟だったテナー・サックス奏者ウォーン・マーシュとの関係も重要だ。彼らは1949年前後にかなりの数の録音を残しているが、どれもビバップの方法論を大筋で踏襲しつつ、ビバップとは全く異種の、いわば醒めた熱狂とでも言うべき感覚を表出していて、録音から60年以上経つ今聞いても未だに新鮮味がある。トリスターノとその一党の演奏は「冷たい炎」と形容されたりするが、個人的には彼らの演奏を聴くたびになぜかペパーミント・ガムの味がよみがえってくる。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3GSjkYnpvYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube 3GSjkYnpvYM >}}
+
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B019GRE8CI/myhumangetsme-22/" name="amachazllink" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51TEoZUQ0hL.jpg" alt="Intuition by Lennie Tristano (1996-10-15)" style="border: none;" /></a>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2N1GYQNZRsS964RxWCjWVc?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 その後も折に触れてコニッツはトリスターノと共演していたが、トリスターノが私塾での教育に力を入れてライヴをしなくなったということもあり、関係は60年代にはフェードアウトしたようだ。これは最末期の共演記録で、当時の彼らの様子が分かる貴重な動画である。何があったのか知らないがトリスターノのピアノがえらい殺気立っていて凄まじい。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bznqGjyYuRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube bznqGjyYuRk >}}
 
 ちなみにトリスターノが忙しくて出られないときに穴を埋めたのがビル・エヴァンスで、そのライヴの記録も残っている。ドラムスはポール・モチアン。
 
@@ -131,3 +137,5 @@ Anthropologyのような典型的なビバップ曲の、全くビバップ的�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wJAkyEpR70Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00H03UI3O/myhumangetsme-22/" name="amachazllink" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51eAQsiKQ0L.jpg" alt="December Song" style="border: none;" /></a>
+
+<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4907583443/myhumangetsme-22/" name="amachazllink" rel="nofollow" target="_blank"><img src="https://m.media-amazon.com/images/I/51ipT4QgIFL.jpg" alt="リー・コニッツ ジャズ・インプロヴァイザーの軌跡" style="border: none;" /></a>
