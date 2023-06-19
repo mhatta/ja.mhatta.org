@@ -18,4 +18,6 @@ image = "https://i.scdn.co/image/ab67616d0000b2739cf3bd45881703b85f8808f7"
 
 この手の人にありがちというか、ゲイルもキリスト教を深く信仰していて、というか正直狂信の域に達しており、ライヴでもゲイや中絶に反対する演説をぶってひんしゅくを買ったりしていたようだが、まあ、個人的にお付き合いしたいとは思わないけれど、どちらかといえば私はオポチュニストより狂信者のほうが好きである。極道というと違う意味にとられそうだが、良くも悪くも一つの道を極めた人だけが持ちうる説得力がゲイルの音楽にはあると思う。
 
+{{< youtube 0_GIc3t0BLs >}}
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6fBFeAK4m1WgHkZiIMU648?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
