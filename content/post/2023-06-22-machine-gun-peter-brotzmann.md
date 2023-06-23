@@ -15,3 +15,5 @@ image = "https://m.media-amazon.com/images/I/41ZBE2MJHQL._AC_.jpg"
 <a href="https://www.amazon.co.jp/Complete-Machine-Gun-Sessions/dp/B000S1KU2Y?&linkCode=li3&tag=myhumangetsme-22&linkId=303ab727deb79974c62781a7f6d7a97a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000S1KU2Y&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li3&o=9&a=B000S1KU2Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 {{< youtube 0wgA9L5TN5M >}}
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0fwlNodwJFh7FB3BVl6ifh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
