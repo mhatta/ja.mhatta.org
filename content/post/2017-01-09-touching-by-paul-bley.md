@@ -59,8 +59,6 @@ comments = true
 
 追記。
 
-{{< tweet 818480684868071424 >}}
-
 いや、単に忘れていただけです…。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uuK5n1ek8gc" frameborder="0" allowfullscreen></iframe>
