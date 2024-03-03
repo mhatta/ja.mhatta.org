@@ -4,7 +4,7 @@ author = ["Masayuki Hatta"]
 date = 2024-02-27T12:34:00+09:00
 tags = ["jazz", "joe-douglas"]
 draft = false
-slug = "Hvisage-jor-douglas"
+slug = "visage-jor-douglas"
 image = "https://m.media-amazon.com/images/I/81F6tU8pJKL._AC_SL1500_.jpg"
 +++
 
