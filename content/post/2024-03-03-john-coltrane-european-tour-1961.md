@@ -61,7 +61,7 @@ image = "https://m.media-amazon.com/images/I/71kMGmwGExL._AC_SL1500_.jpg"
 : 夜に1公演。録音は残っていない。
 
 11月29日（水） 西ドイツ・フランクフルト
-: 夜に1公演。録音あり。ラジオ番組として放送されたので2曲だけ録音が残っている。
+: 夜に1公演。ラジオ番組として放送されたので2曲だけ録音が残っている。
 
 11月30日（木） 西ドイツ・ニュルンベルク
 : 録音は残っていない。
@@ -72,7 +72,10 @@ image = "https://m.media-amazon.com/images/I/71kMGmwGExL._AC_SL1500_.jpg"
 12月2日（土） 西ドイツ・ベルリン
 : 夜に2公演。録音あり。1曲だけ録音が残っている。
 
-12月4日（日） 西ドイツ・バーデンバーデン
+12月3日（日） 西ドイツ
+: オフだったようだ。
+
+12月4日（月） 西ドイツ・バーデンバーデン
 : ついに千秋楽。録音あり。テレビ放送されたので動画も一部残っている。なんで鉄工所みたいなところで演奏しているのかは謎ですが…。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zb7wt8MhdhM?si=QcCeHNHF7Bs5LqoX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
