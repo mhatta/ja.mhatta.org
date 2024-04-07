@@ -16,7 +16,7 @@ image = "https://m.media-amazon.com/images/I/61CxgGYiodL._UX716_FMwebp_QL85_.jpg
 
 音大を出たというわけでもない一サックス吹きに過ぎなかったグレッティンガーだが、図形譜なども駆使した彼の作曲とアレンジには、今聞くと奇妙に新しさと古さが入り交じった面白さがある。古さはこの種の音楽スタイルが（特に映画音楽など）主流の商業音楽に吸収されて今となっては当たり前になったからだろうが、それに留まらない新しさが未だに宿っていることに驚かされる。確かにグレッティンガーには才能があったのだ。弦楽器や不協和音を大胆に導入しているのでいわゆる現代音楽ぽさはもちろんあるが、よく聞くとグルーヴというか案外ジャズっぽいところもあって、個人的にはガンサー・シュラーが後年やったようないわゆるサード・ストリームものより面白い。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i4ym_KS8b2I?si=0ahacVaSI0VaDCoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube i4ym_KS8b2I >}}
 
 よく分からないが何かものすごそうなグレッティンガーの図形譜。
 
@@ -38,7 +38,7 @@ image = "https://m.media-amazon.com/images/I/61CxgGYiodL._UX716_FMwebp_QL85_.jpg
 
 と述べていたが、この「アルトをフィーチャーしていたやつ」というのが長年疑問だった。これ、かなり高い確率で「テルモピュレ」のことだと思うんだよな。途中で出てくる力強いアルトサックスの咆哮が気に入ったのではないか。ラテン趣味も含めて、特に晩年のパーカーは案外ケントンに影響されていたように思う。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8PIpnd2V6MY?si=voxxmx4PogyRt0va" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube 8PIpnd2V6MY >}}
 
 <p><a href="https://amzn.to/4a6fvhn"><img width="500px" src="https://images-na.ssl-images-amazon.com/images/P/B000005GZJ.09.LZZZZZZZ"></a></p> <p><a href="https://amzn.to/4a6fvhn" target="_blank" rel="nofollow">City of Glass</a></p>
 

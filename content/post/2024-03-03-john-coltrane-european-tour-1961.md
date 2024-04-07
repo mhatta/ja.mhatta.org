@@ -41,7 +41,7 @@ image = "https://m.media-amazon.com/images/I/71kMGmwGExL._AC_SL1500_.jpg"
 
 このツアーから1曲だけ聞くなら、その11月23日ストックホルムのセカンドセットで演奏された、25分にも及ぶMy Favorite Thingsでしょうね。音質は今ひとつでコルトレーンは若干お疲れ気味、おまけにソーメニーかはともかく何度も何度も演奏した（この日のファースト・セットでもやっている）手垢のついた曲といえばまあそうなのだが、とにかくコルトレーンを差し置いて途中から飛び込んでくるドルフィーの飛翔感溢れるフルートが凄まじい名演である。こうして改めて日程を見ると、北欧編が一区切りということで解放感があったのかもしれない。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wtkxmke1MQY?si=It4BtYVejbwb-S_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube wtkxmke1MQY >}}
 
 この後は基本西ドイツツアーということになるわけだが、録音は断片的にしか残っていない。そもそもあまりラジオ放送されず、またラジオ局にコネがある人があんまりいなかったようでエアチェックが多いのがその理由であろう。
 
@@ -78,9 +78,9 @@ image = "https://m.media-amazon.com/images/I/71kMGmwGExL._AC_SL1500_.jpg"
 12月4日（月） 西ドイツ・バーデンバーデン
 : ついに千秋楽。録音あり。テレビ放送されたので動画も一部残っている。なんで鉄工所みたいなところで演奏しているのかは謎ですが…。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zb7wt8MhdhM?si=QcCeHNHF7Bs5LqoX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    {{< youtube zb7wt8MhdhM >}}
 
-ということで、実は後半戦のドイツ・ツアーは、[The Unissued German Concerts](https://amzn.to/3TjZqPp)と[European Impressions](https://amzn.to/49smUrn)という2枚のCDだけで全部揃ってしまう（後者の後半は11月23日ストックホルムのファースト・セット）。[前者](https://youtube.com/playlist?list=OLAK5uy_kOFtDCJHnc-FuHmOP5hNnWH5FzPT3u8ko&si=ImH5O2Udo3DALdl0)も[後者](https://music.youtube.com/playlist?list=OLAK5uy_m0Qokv_kcvx-PuPQxEvYYOEG_K5-jHXTE&si=-8TnkQQ8McNE8lbC)もYouTubeにある。
+    ということで、実は後半戦のドイツ・ツアーは、[The Unissued German Concerts](https://amzn.to/3TjZqPp)と[European Impressions](https://amzn.to/49smUrn)という2枚のCDだけで全部揃ってしまう（後者の後半は11月23日ストックホルムのファースト・セット）。[前者](https://youtube.com/playlist?list=OLAK5uy_kOFtDCJHnc-FuHmOP5hNnWH5FzPT3u8ko&si=ImH5O2Udo3DALdl0)も[後者](https://music.youtube.com/playlist?list=OLAK5uy_m0Qokv_kcvx-PuPQxEvYYOEG_K5-jHXTE&si=-8TnkQQ8McNE8lbC)もYouTubeにある。
 
 コルトレーンのカルテットは、コルトレーンを不動の中心としてマッコイ・タイナー、ジミー・ギャリソン（このツアーはレジー・ワークマンだったが）、エルヴィン・ジョーンズががっちり脇を固め、よくも悪くも凝集力の高い、コルトレーンの指揮下一糸乱れぬユニットとして機能していた。エリック・ドルフィーは明らかに異物というか仲間はずれでうまくかみ合っていないのだが、まとまりはある反面一本調子に陥りやすいコルトレーンの音楽に全く違う方向性を持ち込んでいたように思う。逆にドルフィーはドルフィーで、堅固な黄金カルテットを踏み台に自由にイマジネーションを羽ばたかせることが出来たわけで、そういう意味では相互補完的な関係だったとも言える。強烈な個性の持ち主たちが好き放題やっているのに、全体としてはなんとなくまとまっている、というジャズの最も自由で優れたあり方を体現していたように思う。
 
