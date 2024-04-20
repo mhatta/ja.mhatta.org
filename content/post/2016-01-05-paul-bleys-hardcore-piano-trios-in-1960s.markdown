@@ -31,7 +31,7 @@ description: ポール・ブレイが1月3日に亡くなった。83歳。ブレ
 * [1965年12月12日、ニューヨーク録音（「Closer」）](https://ja.mhatta.org/blog/2017/01/15/closer-by-paul-bley/)
 * [1966年7月1日、イタリア・ローマ録音（「Ramblin'」）](https://ja.mhatta.org/blog/2017/08/28/ramblin-by-paul-bley/)
 * [1966年8月31日、スイス・ルガーノ録音（「Festival International De Jazz」）](https://ja.mhatta.org/blog/2021/06/07/festival-international-de-jazz-lugano-31-august-1966-by-paul-bley/)
-* 1966年9月21日および10月4日、オランダ・バーン録音（「Blood」）
+* [1966年9月21日および10月4日、オランダ・バーン録音（「Blood」）](https://ja.mhatta.org/blog/2024/04/20/blood-paul-bley/)
 * 1966年9月27日、ドイツ・ブレーメン録音（「Bremen '66」)
 * 1966年11月4日、オランダ・ハーレム録音（「In Haarlem」）
 * 1967年3月31日、ニューヨーク録音（「Ballads」）
@@ -44,4 +44,3 @@ description: ポール・ブレイが1月3日に亡くなった。83歳。ブレ
 
 ということで、次がいつになるか分かりませんが、「Touching」からちびちびとレビューを書いていくつもりなのである。
 
-<p><a href="https://www.amazon.co.jp/RAMBLIN-PAUL-BLEY/dp/B000000G3U?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Paul+Bley+Ramblin%27&qid=1622985624&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=1f863d5f5734271e3725932f5762ba49&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000000G3U&Format= _SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=myhumangetsme-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=myhumangetsme-22&language=ja_JP&l=li2&o=9&a=B000000G3U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p> <p><a href="https://www.amazon.co.jp/RAMBLIN-PAUL-BLEY/dp/B000000G3U?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Paul+Bley+Ramblin%27&qid=1622985624&sr=8-1&linkCode=li2&tag=myhumangetsme-22&linkId=1f863d5f5734271e3725932f5762ba49&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="nofollow">RAMBLIN'</a></p>
