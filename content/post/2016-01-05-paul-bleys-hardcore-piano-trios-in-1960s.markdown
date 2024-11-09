@@ -32,7 +32,7 @@ description: ポール・ブレイが1月3日に亡くなった。83歳。ブレ
 * [1966年7月1日、イタリア・ローマ録音（「Ramblin'」）](https://ja.mhatta.org/blog/2017/08/28/ramblin-by-paul-bley/)
 * [1966年8月31日、スイス・ルガーノ録音（「Festival International De Jazz」）](https://ja.mhatta.org/blog/2021/06/07/festival-international-de-jazz-lugano-31-august-1966-by-paul-bley/)
 * [1966年9月21日および10月4日、オランダ・バーン録音（「Blood」）](https://ja.mhatta.org/blog/2024/04/20/blood-paul-bley/)
-* 1966年9月27日、ドイツ・ブレーメン録音（「Bremen '66」)
+* [1966年9月27日、ドイツ・ブレーメン録音（「Bremen '66」)](https://ja.mhatta.org/blog/2024/11/08/bremen-66-paul-bley/)
 * 1966年11月4日、オランダ・ハーレム録音（「In Haarlem」）
 * 1967年3月31日、ニューヨーク録音（「Ballads」）
 * 1967年7月28日、ニューヨーク録音（「Virtuosi」）

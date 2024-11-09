@@ -1,4 +1,4 @@
-baseURL = "https://ja.mhatta.org/"
+baseURL = "https://ja.mhatta.org"
 title = "Masayuki Hatta a.k.a. mhatta"
 author = "Masayuki Hatta"
 languageCode = "ja"
@@ -6,9 +6,9 @@ DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 theme = "Blonde"
 enableRobotsTXT = true
-enableGitinfo = true
+#enableGitinfo = true
 
-ignoreErrors = ["error-remote-getjson"]
+#ignoreErrors = ["error-remote-getjson"]
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 hasCJKLanguage = true
@@ -46,6 +46,18 @@ tagsLimit = 20
 # Light mode by default : light
 darkmode = "light"
 
+  [params.ad]
+    # Google AdSense
+    # ex. ca-pub-0000000000000000
+    googleAdSense = "ca-pub-1040486710793153"
+
+    # ex. 000000000
+    adslot = ""
+
+    # Placement of ads
+    postTop = true
+    postBottom = true
+
   [params.post]
     # Show thumbnails
     thumbnail = true
@@ -74,7 +86,7 @@ darkmode = "light"
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]
 #    enabled = true
-#    tagNumber = '73933261'
+#    tagNumber = ''
 
 [menu]
 
@@ -146,5 +158,5 @@ archive = "archives"
   [services.twitter]
     disableInlineCSS = true
 
-[build]
-  writeStats = true
+#[build]
+#  writeStats = true

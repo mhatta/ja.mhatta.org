@@ -13,8 +13,6 @@ menu = ""
 comments = true
 
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004EOHP1U/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61HbpraBgiL.jpg" alt="Touching" style="border: none;" /></a>
-
 あけましておめでとうございます。今年も宜しくお願いいたします。
 
 去る2016年は多くのミュージシャンが亡くなったが、個人的に一番悲しかったのは去年の正月に亡くなったポール・ブレイだ。
@@ -55,10 +53,8 @@ comments = true
 
 <img src="https://images-fe.ssl-images-amazon.com/images/I/61SfJh9DyiL._SL500_.jpg">
 
-ちなみに先ほど出てきたライヴ盤のLive In HaarlemはBloodというタイトルで出たこともあり（ジャケットにもそう大書されているし）、それは当然1966年のスタジオ録音盤Bloodとは別物なわけで、なんだかもう訳が分かりません。
-
-追記。
-
-いや、単に忘れていただけです…。
+ちなみに先ほど出てきたライヴ盤のLive In HaarlemはBloodというタイトルで出たこともあり（ジャケットにもそう大書されているし）、それは当然1966年のスタジオ録音盤[Blood](https://ja.mhatta.org/blog/2024/04/20/blood-paul-bley/)とは別物なわけで、なんだかもう訳が分かりません。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uuK5n1ek8gc" frameborder="0" allowfullscreen></iframe>
+
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000025P42/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61HbpraBgiL.jpg" alt="Touching" style="border: none;" /></a>
