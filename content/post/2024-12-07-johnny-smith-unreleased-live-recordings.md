@@ -20,7 +20,7 @@ image = "https://i.discogs.com/cnGNGB3LCVwT0_8iaciBvOyIn7VtRKFCqrQ5A6uCiZU/rs:fi
 
 [ジョニー・スミス](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9_(%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%BB%E3%82%AE%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88))はアラバマ生まれでギターは独学。それでも譜面には強かったようで、劇伴やスタジオ・ミュージシャンとしても引っ張りだこだったようだ。そのあたりが「ヴァーモントの月」のようなおっとりした演奏にも生かされたのだろうが、一方でこの人は、なぜかザ・ベンチャーズで有名な「急がば廻れ」（Walk, Don't Run）の作曲者でもあるらしい。まああれ、正体は「朝日のようにさわやかに」ですが…。
 
-{{< youtube jfKJ1wykHKg>}}
+{{< youtube j81sy1Ibf9M>}}
 
 そのまま1950年代のニューヨークで活動していればもっと名が揚がったのだろうが、間もなく奥さんがお産で亡くなってしまい、ニューヨークは娘を育てる場所ではないと見切りを付けたスミスはキャリアを捨ててコロラド州に引っ込んだ。楽器店を営み、おそらくは「急がば廻れ」他の印税もあって、2013年に90歳で亡くなるまで悠々自適の人生を送ったようだ。
 
@@ -38,4 +38,4 @@ image = "https://i.discogs.com/cnGNGB3LCVwT0_8iaciBvOyIn7VtRKFCqrQ5A6uCiZU/rs:fi
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2T0oVRgZ39wkFqk3K6VuxK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2XcwfFYJ0Hbti02Sanxr9L?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0dsouWoxeW4yRRmyzPYC0i?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
