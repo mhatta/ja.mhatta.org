@@ -109,12 +109,12 @@ darkmode = "light"
     weight = 3
 
   [[menu.main]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/mhatta"
+    identifier = "bluesky"
+    name = "Bluesky"
+    url = "https://bsky.app/profile/mhatta.bsky.social"
     weight = 4
 
-  [[menu.main]]
+[[menu.main]]
     identifier = "linkedin"
     name = "LinkedIn"
     url = "https://linkedin.com/in/mhatta/"
@@ -125,6 +125,12 @@ darkmode = "light"
     name = "Instagram"
     url = "https://instagram.com/masayukihatta"
     weight = 6
+
+  [[menu.main]]
+    identifier = "x"
+    name = "X/Twitter"
+    url = "https://twitter.com/mhatta"
+    weight = 7
 
 [taxonomies]
 category = "categories"
