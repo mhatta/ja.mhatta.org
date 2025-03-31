@@ -2,7 +2,7 @@
 title = "The Jazz Crusaders at the Lighthouse (1962)"
 author = ["Masayuki Hatta"]
 date = 2025-03-30T14:20:00+09:00
-tags = ["jazz"]
+tags = ["jazz", "jazz-crusaders"]
 draft = false
 slug = "the-jazz-crusaders-at-the-lighthouse-1962"
 image = "https://m.media-amazon.com/images/I/61lmjRNrhzL._AC_SL1200_.jpg"
