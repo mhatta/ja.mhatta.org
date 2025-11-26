@@ -1,5 +1,5 @@
 +++
-title = "hBlue Manhattan / Al Haig"
+title = "Blue Manhattan / Al Haig"
 author = ["Masayuki Hatta"]
 date = 2025-11-21T13:36:00+09:00
 tags = ["jazz", "al-haig"]
