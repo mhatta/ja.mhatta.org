@@ -2,7 +2,7 @@
 title = "志ん生の「富久」"
 author = ["Masayuki Hatta"]
 date = 2025-12-31T21:03:00+09:00
-tags = ["kokontei-shinsyo"]
+tags = ["rakugo", "kokontei-shinsyo"]
 draft = false
 slug = "tomikyu-kokontei-shinsyo"
 image = "https://m.media-amazon.com/images/I/617B7rJpubL._AC_SL1014_.jpg"
