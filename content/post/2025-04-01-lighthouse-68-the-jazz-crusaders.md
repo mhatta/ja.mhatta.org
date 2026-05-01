@@ -6,6 +6,8 @@ tags = ["jazz", "jazz-crusaders"]
 draft = false
 slug = "lighthouse-68-the-jazz-crusaders"
 image = "https://m.media-amazon.com/images/I/71D3CBN3wXL._AC_SL1050_.jpg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 [前回](https://ja.mhatta.org/blog/2025/03/31/live-at-the-lighthouse-66-the-jazz-crusaders/)の続き。タイトルから「ライブ・アット」すら無くなったライトハウスでのライヴ録音第3弾である。セルジオ・メンデス＆ ****ブラジル'66**** とか、このころ「場所 '年」みたいなのが流行ったような気がするが、何の影響だったんだろう。

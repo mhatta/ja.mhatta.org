@@ -6,6 +6,8 @@ tags = ["jazz", "derek-bailey", "han-bennink", "evan-parker"]
 draft = false
 slug = "the-topography-of-the-lungs"
 image = "https://m.media-amazon.com/images/I/51opZ3z5DSL._AC_.jpg"
+archives = ["2023/06"]
+categories = ["jazz"]
 +++
 
 一切の音楽スタイルを拒否することで、逆に唯一無二の個性を獲得したのがデレク・ベイリーだ。他人について「デレク・ベイリーのような」という形容は出来ても、ベイリー自身を「○○のような」と形容するのはむずかしい。

@@ -6,6 +6,8 @@ title: Charlie Haden, 1937-2014
 url: /blog/2014/07/12/charlie-haden-1937-2014/
 image: "http://ecx.images-amazon.com/images/I/51VzZNEMrML.jpg"
 description: チャーリー・ヘイデンが亡くなった。近年まで活動を続けていたし、当人としてはやり残したこともあったのかもしれないが、まあ76歳なので大往生の部類であろう。2009年にカルテット・ウェストを率いて来日したことがあって、見に行くつもりだったのだが直前になって用事が入り行けなかった。これがおそらく生で見る唯一の機会だったので、今となってはちょっと残念である。
+archives: ["2014/07"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0000070O1/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51VzZNEMrML.jpg" alt="Closeness" style="border: none;" /></a>
 

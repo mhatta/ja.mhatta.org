@@ -6,6 +6,8 @@ title: Francy Boland THE Orchestra (Blue Flame / Red Hot / White Heat)
 url: /blog/2015/01/09/francy-boland-the-orchestra-blue-flame-slash-red-hot-slash-white-heat/
 image: "http://ecx.images-amazon.com/images/I/51MpWuzcioL.jpg"
 description: CBBBことケニー・クラーク=フランシー・ボラン・ビッグ・バンドは1972年に解散したのだが、4年後の1976年に再び集まって録音を残している。ボランが作編曲とピアノ（一部エレピ）を務めるのは当然として、CBBB結成の仕掛け人であるジジ・キャンピがプロデュース、ベニー・ベイリーやケニー・ウィーラー、トニー・コーやロニー・スコット、サヒブ・シハブといったかつてのレギュラーもほぼ揃うという豪華な陣容で、MPSレーベルに「Blue Flame」「Red Hot」「White Heat」と銘打って3枚もLPを残しているのだ。これはその時の全録音を2枚組CDにまとめたもの。
+archives: ["2015/01"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00163P9MY/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51MpWuzcioL.jpg" alt="The Orchestra" style="border: none;" /></a>

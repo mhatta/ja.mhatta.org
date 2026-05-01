@@ -6,6 +6,8 @@ title: Big Band Record / Ray Anderson
 url: /blog/2013/01/14/big-band-record-slash-ray-anderson/
 image: "http://ecx.images-amazon.com/images/I/41N322WR6BL.jpg"
 description: 去る1月10日に亡くなったジョルジュ・グルンツは、テテ・モントリウと並び、60年代ヨーロッパが輩出した中では一頭地抜けて優れたジャズ・ピアニストだったと思う。当時のヨーロッパのピアニストは、テクニックこそ優れているものの根本的にリズム感というかノリの悪い人が多く、それをどうごまかすかで四苦八苦しているようなところがなきにしもあらずだったのだが、さすがにグルンツくらいになるとそうした心配はなく、本場アメリカの一流どころとも互角に渡り合えていた。
+archives: ["2013/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000003229/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41N322WR6BL.jpg" alt="Big Band Record" style="border: none;" /></a>
 

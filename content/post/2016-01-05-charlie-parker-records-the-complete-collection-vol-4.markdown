@@ -6,6 +6,8 @@ title: 'Charlie Parker Records: The Complete Collection Vol. 4'
 url: /blog//2016/01/05/charlie-parker-records-the-complete-collection-vol-4/
 image: http://ecx.images-amazon.com/images/I/51GCC4i8k5L.jpg
 description: 謎のレーベルCharlie Parker Recordsの話の続き。ディスク4はアート・ペッパーの名演をフィーチャーしている。
+archives: ["2016/01"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B006ZUKBJ4/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51GCC4i8k5L.jpg" alt="Charlie Parker Records: The Complete Collection" style="border: none;" /></a>

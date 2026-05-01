@@ -6,6 +6,8 @@ title: Reunion Blues / Oscar Peterson
 url: /blog/2014/01/21/reunion-blues-slash-oscar-peterson/
 image: "http://ecx.images-amazon.com/images/I/51zpVL6jUEL.jpg"
 description: ずいぶん前にMPS時代のオスカー・ピーターソンのCDを大量に仕入れたのだが、なかなか聞く暇がなかった。これはその一枚で1971年の録音。コンセントが4本、でミルト・ジャクソンのだけ抜けかかっているという、意味があるんだかないんだかよく分からないジャケット・デザインも秀逸。
+archives: ["2014/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0009AM65I/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51zpVL6jUEL.jpg" alt="Reunion Blues (Reis)" style="border: none;" /></a>
 

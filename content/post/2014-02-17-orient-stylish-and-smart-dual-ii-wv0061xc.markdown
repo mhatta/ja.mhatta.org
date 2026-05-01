@@ -1,11 +1,13 @@
 ---
-tags: ["gadgets","watch"]
+tags: ["watch"]
 comments: true
 date: 2014-02-17T22:33:21Z
 title: Orient Stylish And Smart Dual II WV0061XC
 url: /blog//2014/02/17/orient-stylish-and-smart-dual-ii-wv0061xc/
 image: "http://ecx.images-amazon.com/images/I/51dtLaHA4bL.jpg"
 description: 長年使っている目覚まし時計がとうとう壊れたので某家電量販店へ買いに行ったのだが、目覚まし時計は買わずになぜかこれを買ってしまった。電池で動くクオーツのアナログ時計と自動巻きの機械式デジタル時計が両方とも乗っているという、誰が得するんだよとしか良いようがない珍品。おまけに万年カレンダー機能もあるのだが、それは人間が手でリューズを回してひと月にいっぺん日付と曜日を合わせるという、ハイテクなんだかローテクなんだかよく分からない代物である。
+archives: ["2014/02"]
+categories: ["gadgets"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EUSZWZQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51dtLaHA4bL.jpg" alt="[オリエント]ORIENT 腕時計 STYLISH AND SMART スタイリッシュ アンド スマート DUAL II デュアルタイム 自動巻・クオーツ WV0061XC メンズ" style="border: none;" /></a>
 

@@ -6,6 +6,8 @@ tags = ["jazz", "paul-bley"]
 draft = false
 slug = "bremen-66-paul-bley"
 image = "https://i.discogs.com/LNXnfqzoW80SBdS6tB_P0xt1gQhkEst9dW6hylrzrwM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU0/NjcyLTE1Mjk0MzMw/NzQtNzA3My5qcGVn.jpeg"
+archives = ["2024/11"]
+categories = ["jazz"]
 +++
 
 [ポール・ブレイが遺した60年代ピアノ・トリオもの](https://ja.mhatta.org/blog/2016/01/05/paul-bleys-hardcore-piano-trios-in-1960s/)の話の続き。

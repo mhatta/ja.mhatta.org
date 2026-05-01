@@ -9,6 +9,8 @@ slug = "2019-03-02-rip-andre-previn"
 share = true
 featured = false
 image = "https://m.media-amazon.com/images/I/81KfnC76VqL._SS500_.jpg"
+archives = ["2019/03"]
+categories = ["jazz"]
 +++
 
 アンドレ・プレヴィンが亡くなった。享年89。

@@ -6,6 +6,8 @@ tags = ["jazz", "joey-baron"]
 draft = false
 slug = "two-discs-by-joey-baron"
 image = "https://m.media-amazon.com/images/I/51gzrBYUvJL._AC_.jpg"
+archives = ["2024/04"]
+categories = ["jazz"]
 +++
 
 ジョン・ゾーン率いるマサダのドラマーとして知られるジョーイ・バロン、いつ見ても若々しいが、もう68歳なのですね。まあ1970年代から活躍していたから当たり前だが。

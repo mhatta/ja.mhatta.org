@@ -9,6 +9,8 @@ slug = "lester-bangs-on-in-a-silent-way"
 share = true
 featured = false
 image = "https://upload.wikimedia.org/wikipedia/en/8/80/Lester_Bangs.jpg"
+archives = ["2019/02"]
+categories = ["jazz"]
 +++
 
 例によってイーサン・アイヴァーソンのツイートで、[レスター・バングス](https://en.wikipedia.org/wiki/Lester%5FBangs)が「In A Silent Way」を、発表当時に「ローリング・ストーン」誌でレビューしていたのを初めて知った。

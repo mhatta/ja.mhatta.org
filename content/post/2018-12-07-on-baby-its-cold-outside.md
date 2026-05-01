@@ -9,6 +9,8 @@ slug = "on-baby-its-cold-outside"
 share = true
 featured = false
 image = "https://images-na.ssl-images-amazon.com/images/I/51gArJjSIaL._SY450_.jpg"
+archives = ["2018/12"]
+categories = ["jazz"]
 +++
 
 クリスマスの定番曲の一つにBaby, It's Cold Outsideという曲がある。男女のデュエットで、古くはエラ・フィッツジェラルドとルイ・ジョーダンとか、ルイ・アームストロングとヴェルマ・ミドルトンとか、レイ・チャールズとベティ・カーターとかいろいろあるが、近年だとノラ・ジョーンズとウィリー・ネルソンのバージョンが良かったですね。

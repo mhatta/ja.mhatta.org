@@ -6,6 +6,8 @@ tags = ["jazz", "michel-petrucciani"]
 draft = false
 slug = "jazz-club-montmartre-cph-1988-michel-petrucciani"
 image = "https://i.discogs.com/NQr8kJ82IlcxL9L-KX_sTCWYM9XsP6w6Ktpy0ji9QUo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDkx/MzQxLTE3MzM0OTk2/ODctOTUyMS5qcGVn.jpeg"
+archives = ["2024/12"]
+categories = ["jazz"]
 +++
 
 これも2024年の発掘盤。

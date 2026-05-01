@@ -6,7 +6,8 @@ title: BABYMETAL, KISS and Rock'n Roll Music Business
 url: /blog/2016/04/27/babymetal-kiss-and-rockn-roll-music-business/
 image: http://ecx.images-amazon.com/images/I/61WlF6PysqL.jpg
 description: しばらく体調を崩して寝込んでいた。呼吸器をやられると苦しくて動けなくなるので、やることと言えば寝ながらテレビでYouTubeを見るくらいだった。
-
+archives: ["2016/04"]
+categories: ["rock"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01COTGWPG/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/61WlF6PysqL.jpg" alt="METAL RESISTANCE" style="border: none;" /></a>

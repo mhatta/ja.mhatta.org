@@ -6,6 +6,8 @@ tags = ["jazz", "thelonious-monk", "giorgio-de-chirico"]
 draft = false
 slug = "thelonious-monk-giorgio-de-chirico"
 image = "https://m.media-amazon.com/images/I/51BzAshq7OL._AC_.jpg"
+archives = ["2024/04"]
+categories = ["jazz"]
 +++
 
 今年2024年は大規模な[ジョルジョ・デ・キリコ展](https://dechirico.exhibit.jp/)が東京（4/27～8/29）と神戸（9/14～12/8）で開催されるそうだが、どうも[「予言者」（The Seer）](https://dechirico.exhibit.jp/gallery.html)が来るらしい。

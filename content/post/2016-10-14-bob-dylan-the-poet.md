@@ -11,7 +11,8 @@ share = true
 slug = "bob-dylan-the-poet"
 tags = ["rock"]
 title = "詩人としてのボブ・ディラン"
-
+archives = ["2016/10"]
+categories = ["rock"]
 +++
 今年のノーベル文学賞は[ボブ・ディラン](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%96%E3%83%BB%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3)が[受賞](http://www.asahi.com/articles/ASJBF5VGVJBFUCLV01H.html)した。そのうちもらうだろうとは思っていたが、現実になるとなんだか妙な感じですね。
 

@@ -6,6 +6,8 @@ tags = ["jazz", "american-jazz-philharmonic"]
 draft = false
 slug = "american-jazz-philharmonic"
 image = "https://m.media-amazon.com/images/I/715Aqk+f3FL._AC_SL1280_.jpg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 ジャズもクラシックも好きで良く聴くのだが、ジャズとクラシックの融合を目指した、昔で言う[サード・ストリーム](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0)ものには今までどうも食指が伸びなかった。ジャズの躍動感とクラシックの構築美という、両者の良いところを打ち消し合っているような気がしたからである。

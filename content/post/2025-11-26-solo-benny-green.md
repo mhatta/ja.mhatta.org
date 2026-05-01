@@ -6,6 +6,8 @@ tags = ["jazz"]
 draft = false
 slug = "solo-benny-green"
 image = "https://m.media-amazon.com/images/I/615bP7CBCIL._AC_SL1000_.jpg"
+archives = ["2025/11"]
+categories = ["jazz"]
 +++
 
 先日、[丸の内コットンクラブ](https://www.cottonclubjapan.co.jp/jp/)で[アート・ブレイキー&amp;ジャズ・メッセンジャーズの追善企画](https://www.cottonclubjapan.co.jp/jp/sp/artists/jazz-messengers/)を見た。個人的には、大体において御大亡き後のゴースト・バンドの類にはあまり惹かれないのだが、今回はちょっと珍しいレパートリー(私が見たセットでは"This Is For Albert")も演奏してくれて、なかなか楽しめた。去年見たカウント・ベイシー・オーケストラも迫力があって結構良かったし、こういう企画も悪くないということなんですかねえ。

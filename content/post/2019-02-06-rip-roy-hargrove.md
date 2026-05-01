@@ -9,6 +9,8 @@ share = true
 featured = false
 slug = "rip-roy-hargrove"
 image = "https://m.media-amazon.com/images/I/81MXI9dy3GL._SS500_.jpg"
+archives = ["2019/02"]
+categories = ["jazz"]
 +++
 
 2018年に亡くなったジャズ・ミュージシャンで、最も衝撃が大きかったのがロイ・ハーグローヴだろう。大物と言う点ではセシル・テイラーの死も引けを取らないが、セシルは高齢でまあ大往生と言える感じだったのに比べ、ハーグローヴはまだ49歳でしたからねえ。つい最近も来日していたようだし、腎臓を患って10年以上透析をしていたとは全く知らなかった。

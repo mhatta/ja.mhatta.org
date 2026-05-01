@@ -6,6 +6,8 @@ tags = ["jazz", "delfeayo-marsalis"]
 draft = false
 slug = "pontius-pilate-s-decision-delfeayo-marsalis"
 image = "https://m.media-amazon.com/images/I/61cge38U7cL._AC_SL1024_.jpg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 ブランフォード、ウィントンの次に来るマルサリス家の三男坊、[デルフィーヨ・マルサリス](https://www.dmarsalis.com/)は兄貴たちの活躍が派手なので今ひとつ注目を浴びることがないが（昔ウィントンがよくやっていた名曲、Delfeayo's Dilemmaのデルフィーヨってなんのことだよというので知られているかもしれない）プロデューサーとして手腕があり、なかなかうまいトロンボーン奏者でもある。最近はUptown Jazz Orchestraというビッグバンドを率いて活動しているようだ。

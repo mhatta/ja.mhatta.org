@@ -6,6 +6,8 @@ tags = ["jazz", "jack-mcduff"]
 draft = false
 slug = "aint-no-sunshine-brother-jack-mcduff"
 image = "https://i.discogs.com/nCnDS2fvO77snhESTEJB5aBGgn5pOjPjrLBCXDq1IG4/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDM4/MDI5LTE3MTM0OTYy/NDMtNzAyNy5qcGVn.jpeg"
+archives = ["2024/11"]
+categories = ["jazz"]
 +++
 
 今年2024年も例によっていろいろジャズの発掘盤が出たが、個人的に死ぬほど繰り返し聞いたのはこれだった。

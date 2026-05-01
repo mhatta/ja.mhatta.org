@@ -6,6 +6,8 @@ tags = ["jazz", "gil-evans", "lee-konitz"]
 draft = false
 slug = "gil-evans-lee-konitz-heroes-anti-heroes"
 image = "https://m.media-amazon.com/images/I/81ny9bTvqZL._AC_SL1500_.jpg"
+archives = ["2024/03"]
+categories = ["jazz"]
 +++
 
 ギル・エヴァンスと管楽器奏者のデュオというと、最晩年の1987年にスティーヴ・レイシーと録音した[Paris Blues](https://amzn.to/3TJLrmh)が有名だが、個人的には1980年にリー・コニッツとライヴで録音した[Heroes](https://amzn.to/3ILs8mq)と[Anti-Heroes](https://amzn.to/3PxVY1u)が好きだ。というか、昔は良さがよく分からなかったのだが最近好きになった。深夜に一人で聞くのにここまでふさわしい音楽は他に無いと思う。Heroes、Anti-Heroes、どちらも配信されていないしCDも高騰していて入手しにくく、YouTubeにすら音源がほとんど無いのが残念でならない。

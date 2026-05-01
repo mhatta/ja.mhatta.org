@@ -6,6 +6,8 @@ tags = ["jazz", "chico-freeman", "jack-dejohnette", "obit"]
 draft = false
 slug = "tradition-in-transition-chico-freeman"
 image = "https://m.media-amazon.com/images/I/71xi63sadsL._AC_SL1080_.jpg"
+archives = ["2025/11"]
+categories = ["jazz"]
 +++
 
 ジャック・デジョネットがピアノを弾いている作品、手元で他にあるかなと思ったが、これの1曲目はデジョネットがピアノである。セロニアス・モンクの曲なので、モンクをちょっと物真似するように弾いていておもしろい。物真似がなかなか堂に入っているというか、器用なものだ。ドラムスはビリー・ハートが叩いている。

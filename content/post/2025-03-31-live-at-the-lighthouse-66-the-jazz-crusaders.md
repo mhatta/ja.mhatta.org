@@ -6,6 +6,8 @@ tags = ["jazz", "jazz-crusaders"]
 draft = false
 slug = "live-at-the-lighthouse-66-the-jazz-crusaders"
 image = "https://m.media-amazon.com/images/I/51lOM54zBSL._AC_.jpg"
+archives = ["2025/03"]
+categories = ["jazz"]
 +++
 
 [前回](https://ja.mhatta.org/blog/2025/03/30/the-jazz-crusaders-at-the-lighthouse-1962/)の続き。4年後、また同じ「ライトハウス」でのライヴである。なんで4年も空いたのかはよく分からないが、スタジオ録音はコンスタントに発表していたのでそちらで忙しかったのかもしれない。

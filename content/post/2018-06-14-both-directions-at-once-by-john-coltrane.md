@@ -11,6 +11,8 @@ menu= ""		# set "main" to add this content to the main menu
 author = ""
 featured = false
 description = "6月29日にジョン・コルトレーンの未発表音源が出るのだが、音楽メディアのみならず一般の新聞でも記事になっていて驚いた。"
+archives = ["2018/06"]
+categories = ["jazz"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07D4ZWCHX/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61EAZFYyrRL.jpg" alt="Both Directions at Once: The Lost Album" style="border: none;" /></a>
 

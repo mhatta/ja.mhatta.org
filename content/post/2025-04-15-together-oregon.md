@@ -6,6 +6,8 @@ tags = ["jazz", "oregon"]
 draft = false
 slug = "together-oregon"
 image = "https://m.media-amazon.com/images/I/51lrdz1FsCL._AC_.jpg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 [オレゴン](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3_(%E3%83%90%E3%83%B3%E3%83%89))というグループには正直全く興味が無く、そもそも最近まで存在を知らなかったのだが、彼らの単独名義の作品は今聞いてみてもやはりそんなにはピンとこない。ジャズっぽさはともかく卓越した即興演奏家集団であることは誰の耳にも明らかなので、単純に個人的好みの問題ではある。

@@ -6,6 +6,8 @@ title: ドラマーとしてのモーリス・ホワイト
 url: /blog//2016/02/05/maurice-white-as-a-jazz-drummer/
 image: http://ecx.images-amazon.com/images/I/41LOGThWxcL.jpg
 description: アース・ウィンド・アンド・ファイアー（EW&F）のリーダーだったモーリス・ホワイトが亡くなったそうだ。74歳。今年は出だしから音楽界の大物が結構亡くなりますね。
+archives: ["2016/02"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0002J54OQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41LOGThWxcL.jpg" alt="エッセンシャル・アース・ウィンド&ファイアー" style="border: none;" /></a>

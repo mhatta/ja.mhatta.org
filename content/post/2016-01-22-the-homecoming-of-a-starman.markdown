@@ -6,6 +6,8 @@ title: スターマン故郷へ帰る
 url: /blog/2016/01/22/the-homecoming-of-a-starman/
 image: http://ecx.images-amazon.com/images/I/314BbVsiaoL.jpg
 description: デヴィッド・ボウイが亡くなって、世間、特に海外はしばらく大変な騒ぎになっていたが、個人的には、さすがに主だった作品は聞いたことがあるものの、そんなに興味は無かったし、詳しいというほどではない。ただ、結果的に遺作となった「★」は、好きなサックス奏者のダニー・マッキャズリンやドラマーのマーク・ジュリアナ、ギタリストのベン・モンダーらが全面的に参加していて、音自体が好みなのでこのところよく聞いている。遺作が傑作というのは、特に音楽の世界では希なことと言わねばなるまい。
+archives: ["2016/01"]
+categories: ["rock"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0189JGNSQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/314BbVsiaoL.jpg" alt="★(ブラックスター）" style="border: none;" /></a>

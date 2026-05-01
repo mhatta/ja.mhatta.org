@@ -6,6 +6,8 @@ tags = ["jazz", "mccoy-tyner", "joe-henderson", "jack-dejohnette", "henry-grimes
 draft = false
 slug = "forces-of-nature-live-at-slug-s-mccoy-tyner-and-joe-henderson"
 image = "https://i.discogs.com/KxgdYfSw03vg-JVDQBoLt7pKh22B9UMT1EVkpQmRLYw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzcx/NDA3LTE3MzI0MDYz/NjItNTUwMC5qcGVn.jpeg"
+archives = ["2024/12"]
+categories = ["jazz"]
 +++
 
 今年2024年も何枚か素晴らしい発掘盤が世に出たが、これなんかはその筆頭格だろう。[アルバート・アイラーのライヴ盤](https://amzn.to/4f1a4SW)や、あるいはリー・モーガンが出演中に射殺されたことでも知られるニューヨークのクラブ、スラッグズ・サルーンで1966年に録音された未発表録音。ドラムスを叩いているジャック・デジョネットのプライベート・アーカイヴ由来らしいが、隠し録りではなく、録音エンジニアでプロデューサーというか当時のジャズ・シーンを彩るカラフルな奇人の一人、エンデシャ・オビことオーヴィル・オブライエンがそれなりにちゃんとした機材で録ったものなので、ベースの音が若干こもっているとはいえ全体的な音質はまあまあ良好だ。

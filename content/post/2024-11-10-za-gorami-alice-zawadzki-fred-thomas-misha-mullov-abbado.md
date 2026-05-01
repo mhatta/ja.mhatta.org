@@ -6,6 +6,8 @@ tags = ["jazz", "alice-zawadzki", "fred-thomas", "misha-mullov", "abbado"]
 draft = false
 slug = "za-gorami-alice-zawadzki-fred-thomas-misha-mullov-abbado"
 image = "https://i.discogs.com/NQjWlvHTu8FKkOipvbwl2HJMJW1hcfsjeflZ59Oyb58/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcy/NzkyLTE3MjY3NTEx/OTUtMzQ5NS5qcGVn.jpeg"
+archives = ["2024/11"]
+categories = ["jazz"]
 +++
 
 これも今年出た新譜で、最近よく聞いている。発掘ものではなく新録である。[ECM](https://ja.wikipedia.org/wiki/ECM%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89)の諸作は辛気くさいものが多く正直あまり好みではないのだが、そしてこれもまあ辛気くさいという点では例外ではないのだが、嫌みが無く軽みのある哀愁が漂っていて案外楽しめる。

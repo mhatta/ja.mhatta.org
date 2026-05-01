@@ -9,6 +9,8 @@ share = true
 featured = false
 slug = "rip-perry-robinson"
 image = "https://images-na.ssl-images-amazon.com/images/I/510g4IXLmXL._SX466_.jpg"
+archives = ["2018/12"]
+categories = ["jazz"]
 +++
 
 12月に入って[ペリー・ロビンソン](https://en.wikipedia.org/wiki/Perry%5FRobinson)も亡くなってしまった。1938年生まれなので、ちょうど80歳か。

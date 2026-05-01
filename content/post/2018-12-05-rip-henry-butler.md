@@ -9,6 +9,8 @@ slug = "rip-henry-butler"
 share = true
 featured = false
 image = "https://images-fe.ssl-images-amazon.com/images/I/51uDLKzGM4L._SS500.jpg"
+archives = ["2018/12"]
+categories = ["jazz"]
 +++
 
 ニューオリンズの至宝、[ヘンリー・バトラー](http://henrybutler.com/)も亡くなってしまった。一昨年くらいから末期癌で闘病中とは聞いていたので、仕方が無いとは思うが、まだ69歳ですからねえ。

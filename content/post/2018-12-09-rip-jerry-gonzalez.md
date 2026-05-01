@@ -9,6 +9,8 @@ slug = "rip-jerry-gonzalez"
 share = true
 featured = false
 image = "https://images-na.ssl-images-amazon.com/images/I/51BZE5WVYAL.jpg"
+archives = ["2018/12"]
+categories = ["jazz"]
 +++
 
 [ジェリー・ゴンザレス](https://en.wikipedia.org/wiki/Jerry%5FGonz%25C3%25A1lez)も今年亡くなってしまった。2000年以来スペイン・マドリッドに移住していたようだが、家が火事になり、煙を吸い込んで心臓発作を起こしたらしい。享年69。

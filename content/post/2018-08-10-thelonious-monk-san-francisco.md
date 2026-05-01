@@ -11,6 +11,8 @@ menu= ""		# set "main" to add this content to the main menu
 author = ""
 featured = false
 description = "サンフランシスコとジャズというと、今ならSFJazzなんだろうけど、私のようなものにとってはセロニアス・モンクのアローン・イン・サンフランシスコなわけですよ。"
+archives = ["2018/08"]
+categories = ["jazz"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000000YCZ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51m-tfhBzHL.jpg" alt="Alone in San Francisco" style="border: none;" /></a>
 

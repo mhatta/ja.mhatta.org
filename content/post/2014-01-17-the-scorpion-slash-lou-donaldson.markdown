@@ -6,6 +6,7 @@ title: The Scorpion / Lou Donaldson
 url: /blog/2014/01/17/the-scorpion-slash-lou-donaldson/
 image: http://ecx.images-amazon.com/images/I/51VXLRohcvL.jpg
 description: 1995年、unreleased sessions from the blue note vaults!と銘打ち、Blue Note Rare Groove Seriesの一環としてブルーノートの未発表作品がいくつか出たことがある。これはそのうちの一枚。タイトル曲（の別テイク）はThe Lost Groovesというコンピに入っていたので聞いたことがあったが、全体を通して聞くのは初めて。
+archives: ["2014/01"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000005GZB/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51VXLRohcvL.jpg" alt="The Scorpion" style="border: none;" /></a>
 

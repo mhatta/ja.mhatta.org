@@ -6,6 +6,8 @@ tags = ["jazz", "evan-parker"]
 draft = false
 slug = "evan-parker-at-the-finger-palace"
 image = "https://i.discogs.com/k8is9ZrSyETdXJXbg1gXJyJFxHFs5oPFaWPbYoo9iuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY4/NDUtMTI4NjgxNzk5/Ny5qcGVn.jpeg"
+archives = ["2023/06"]
+categories = ["jazz"]
 +++
 
 病中はこれも良く聞いた。なぜか[Wikipediaのエントリ](https://en.wikipedia.org/wiki/Evan_Parker)には記載がないのだが（別名称があるのかしら？）、イギリスの鬼才エヴァン・パーカーが1978年にアメリカで行ったソロ・ライヴの記録である。CD化はされていないと思うが、YouTubeにあることに気づいてもう大喜びですよ。

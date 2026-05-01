@@ -5,6 +5,8 @@ date: 2012-10-21T00:00:00Z
 title: Octopressを入れてみた
 url: /blog/2012/10/21/toying-with-octopress/
 description: 今まで長いこと、レンタルサーバ（Inetd)に自分で入れたtDiaryを使って日本語ブログを書いてきたのだが、どうもバージョンを3.1.1に上げたあたりからNoMemoryErrorが頻出するようになり、記事の更新がうまくできずに困っていた。最新は3.1.4だが、やはりダメである。
+archives: ["2012/10"]
+categories: ["jazz"]
 ---
 今まで長いこと、レンタルサーバ（[Inetd](http://inetd.co.jp/))に自分で入れた[tDiary](http://tdiary.org/)を使って日本語ブログを書いてきたのだが、どうもバージョンを3.1.1に上げたあたりからNoMemoryErrorが頻出するようになり、記事の更新がうまくできずに困っていた。最新は3.1.4だが、やはりダメである。
 

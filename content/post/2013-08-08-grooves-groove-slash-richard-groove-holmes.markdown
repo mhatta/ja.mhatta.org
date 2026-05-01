@@ -6,6 +6,8 @@ title: Groove's Groove / Richard Groove Holmes
 url: /blog/2013/08/08/grooves-groove-slash-richard-groove-holmes/
 image: "http://ecx.images-amazon.com/images/I/51EaUfbzr0L.jpg"
 description: 忙しいやら暑いやらでこのところ腰を据えて音楽を聴くどころではなかったのだが、暑いときにあえて暑苦しいオルガン・ジャズを聴くというのも悪くないものだ。本当はライヴで盛り上がるのが一番良いのだが、最近の若手オルガニストは妙にクールな演奏に終始することが多く、今ひとつ「需要」に応えてくれない。そこで、どうしても60年代から70年代にかけてのオールド・スクールを聴くことになる。
+archives: ["2013/08"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00009UW0O/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51EaUfbzr0L.jpg" alt="Groove's Groove" style="border: none;" /></a>
 

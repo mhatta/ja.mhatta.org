@@ -6,6 +6,8 @@ title: オムロン カラダスキャン 252Fを買った
 url: /blog/2013/01/04/bought-omron-karada-scan-252f/
 image: "http://ecx.images-amazon.com/images/I/31f0yMrgE2L.jpg"
 description: 運悪く私の実物に遭遇したことがある人はご存知だと思うが、ネット上における爽やかな言行とは裏腹に、リアルワールドにおけるわたくしはかなりの大兵肥満である。今のところまだ深刻な健康問題は抱えていないものの、ここ数年脳梗塞や糖尿病など深刻な体調不良に見舞われる友人も増えてきており、どげんかせんといかん（死語）と思ってはいた。
+archives: ["2013/01"]
+categories: ["gadgets"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0093E9OQK/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31f0yMrgE2L.jpg" alt="オムロン 体重・体組成計 カラダスキャン PC・スマホ対応 ブラック HBF-252F-BK" style="border: none;" /></a>
 

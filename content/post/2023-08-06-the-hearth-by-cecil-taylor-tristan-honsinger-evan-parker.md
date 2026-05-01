@@ -6,6 +6,8 @@ tags = ["jazz", "cecil-taylor", "tristan-honsinger", "evan-parker", "obit"]
 draft = false
 slug = "the-hearth-by-cecil-taylor-tristan-honsinger-evan-parker"
 image = "https://i.discogs.com/9Idaea1m2TiqU2YGG0k30i-mTzepwZN0v7E3R18nzV0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUy/NzQ4LTE0OTc3MzE5/NjAtNDQ2My5qcGVn.jpeg"
+archives = ["2023/08"]
+categories = ["jazz"]
 +++
 
 先日ペーター・ブロッツマンについてブログに書いたら[翌日ブロッツマンが亡くなってしまう](https://ja.mhatta.org/blog/2023/06/23/for-adolphe-sax-peter-brotzmann/)ということがあったが、今日たまたま[トリスタン・ホンジンガー](https://en.wikipedia.org/wiki/Tristan_Honsinger)を聞いていたら、昨日（8/5）亡くなっていたことを知った。シンクロニシティというやつですかね？　もちろん、皆そういう歳になってきているというだけの話だが。享年73。

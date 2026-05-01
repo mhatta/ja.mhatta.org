@@ -6,6 +6,8 @@ tags = ["jazz", "rachel-eckroth", "john-hadfield"]
 draft = false
 slug = "speaking-in-tongues-rachel-eckroth-and-john-hadfield"
 image = "https://f4.bcbits.com/img/a4051655839_10.jpg"
+archives = ["2026/01"]
+categories = ["jazz"]
 +++
 
 [これ](https://racheleckrothjohnhadfield.bandcamp.com/album/speaking-in-tongues)が2025年の **ジャズの** ベストかと言うとややためらうところもあるのだが、私は結構好きで良く聞いた。[Speaking In Tongues](https://en.wikipedia.org/wiki/Speaking_in_tongues)、舌でしゃべるというのはいわゆる異言のことで、話者が知らない意味不明な言葉を突然話し出すという超常現象のことだが、私のような宗教心の無い人間ですと映画「エクソシスト」の1シーンとかが思い浮かびますね。

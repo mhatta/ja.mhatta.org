@@ -6,6 +6,8 @@ tags = ["jazz", "al-haig"]
 draft = false
 slug = "jazz-will-o-the-wisp-al-haig"
 image = "https://m.media-amazon.com/images/I/51g6p+Qz1TL._AC_.jpg"
+archives = ["2025/11"]
+categories = ["jazz"]
 +++
 
 今年の東京は秋を飛ばしていきなり冬になってしまったような感じだが、秋になると[アル・ヘイグ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%98%E3%82%A4%E3%82%B0)が聴きたくなる。ヘイグみたいにピアノが弾けたらなあと思うことはよくあるのだが、あんなん弾けるわけがないので、聴くだけですね。

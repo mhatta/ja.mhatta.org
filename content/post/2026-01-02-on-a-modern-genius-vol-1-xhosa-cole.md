@@ -6,6 +6,8 @@ tags = ["jazz", "xhosa-cole"]
 draft = false
 slug = "on-a-modern-genius-vol-1-xhosa-cole"
 image = "https://f4.bcbits.com/img/a0393377171_10.jpg"
+archives = ["2026/01"]
+categories = ["jazz"]
 +++
 
 2025年のベストを選べるほど新譜を聴かなくなってしまったのだが、これなんかはなかなか良かった。

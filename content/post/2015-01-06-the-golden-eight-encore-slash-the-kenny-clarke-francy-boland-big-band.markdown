@@ -6,6 +6,8 @@ title: The Golden Eight - Encore! / The Kenny Clarke - Francy Boland Big Band
 url: /blog/2015/01/06/the-golden-eight-encore-slash-the-kenny-clarke-francy-boland-big-band/
 image: "http://ecx.images-amazon.com/images/I/41UsxM1D7nL.jpg"
 description: あけましておめでとうございます。今年も宜しく。年末年始はケニー・クラーク=フランシー・ボラン・ビッグバンド（Clarke-Boland Big Band, CBBB）の音源を中心に聞いていた。といっても大して深い理由があるわけでは無くて、数年前CDでまとめて再発されたのを先日大量に買い込んだのにその後聞く暇が無く、そのまま積みっぱなしになっていたのを今頃になって消化した、というだけの話。 
+archives: ["2015/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0041AX5SY/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41UsxM1D7nL.jpg" alt="Golden Eight-Encore!" style="border: none;" /></a>
 

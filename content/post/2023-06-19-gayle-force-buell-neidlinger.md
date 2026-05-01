@@ -6,6 +6,8 @@ tags = ["jazz", "buell-neidlinger", "charles-gayle"]
 draft = false
 slug = "gayle-force-buell-neidlinger"
 image = "https://i.scdn.co/image/ab67616d0000b2739cf3bd45881703b85f8808f7"
+archives = ["2023/06"]
+categories = ["jazz"]
 +++
 
 体調が悪いときだけ聞きたくなる音楽というのがあって、個人的にはそれはフリージャズ、フリーインプロだ。こちらが弱っていると、何かこう、やみくもなパワーのようなものを感じたいということなのかもしれない。

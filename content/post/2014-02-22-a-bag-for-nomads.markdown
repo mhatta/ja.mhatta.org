@@ -1,11 +1,13 @@
 ---
-tags: ["gadgets","bag"]
+tags: ["bag"]
 comments: true
 date: 2014-02-22T00:32:32Z
 title: あるノマドかばんの話
 url: /blog/2014/02/22/a-bag-for-nomads/
 image: "http://image.rakuten.co.jp/s-deco/cabinet/c/siwa_lht_08.jpg"
 description: タイトルは釣りです。
+archives: ["2014/02"]
+categories: ["gadgets"]
 ---
 
 <a href="http://item.rakuten.co.jp/s-deco/siwa_lh_tote_m/" target="_blank"><img src ="http://image.rakuten.co.jp/s-deco/cabinet/c/siwa_lht_08.jpg" border="0"></a>

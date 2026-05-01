@@ -6,6 +6,8 @@ tags = ["jazz", "jazz-crusaders"]
 draft = false
 slug = "the-jazz-crusaders-at-the-lighthouse-1962"
 image = "https://m.media-amazon.com/images/I/61lmjRNrhzL._AC_SL1200_.jpg"
+archives = ["2025/03"]
+categories = ["jazz"]
 +++
 
 [クルセイダーズ](https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%AF%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%80%E3%83%BC%E3%82%BA)というとフュージョンの代表的グループという印象が強く、そもそもフュージョンにあまり興味が無かったので前身であるジャズ・クルセイダーズもほとんど聴いてこなかったのだが、改めて聴き直すととても良かった。分かりやすくかっこいいジャズをやるグループだったんですねえ。人気が出るのも当然だ。レパートリーは小技の効いたファンキーな名曲ばかりで、ベースがうなりを上げる演奏も最高。内容の良さと親しみやすさという点では、全盛期のホレス・シルバーに匹敵していたように思う。

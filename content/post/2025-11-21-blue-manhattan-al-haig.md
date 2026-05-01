@@ -6,6 +6,8 @@ tags = ["jazz", "al-haig"]
 draft = false
 slug = "blue-manhattan-al-haig"
 image = "https://m.media-amazon.com/images/I/51OrliBMXyL._AC_.jpg"
+archives = ["2025/11"]
+categories = ["jazz"]
 +++
 
 1940年代にはチャーリー・パーカーのレギュラー・ピアニストを務めるなど活躍したアル・ヘイグだが、50年代に入ると次第に活動が低調になり、さらにはプライベートでもいろいろあったらしく、60年代になるとカクテル・ピアニストというかレストランで細々と演奏して糊口を凌ぐという有様になっていたらしい。わずかな例外を除いてほぼ引退状態だったわけだ。

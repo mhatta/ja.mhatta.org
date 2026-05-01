@@ -8,6 +8,8 @@ slug = "john-coltrane-blue-world"
 share = true
 featured = false
 image = "https://images-na.ssl-images-amazon.com/images/I/81V5bjS0nbL._SL1200_.jpg"
+archives = ["2019/08"]
+categories = ["jazz"]
 +++
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07VQTJ24X/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51XhKyMM2PL.jpg" alt="Blue World" style="border: none;" /></a>

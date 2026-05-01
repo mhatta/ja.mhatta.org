@@ -8,6 +8,7 @@ author: "Masayuki Hatta"
 draft: false
 date: 2022-01-12
 archives: ["2022/01"]
+categories: ["jazz"]
 ---
 
 これも昨2021年に出たジャズ発掘盤。といっても、オリジナルのLP2枚組は1971年、その後CD3枚組の増量バージョンが1996年に出ていて、今回はCD8枚組のコンプリート・バージョンである。Spotifyにもある。

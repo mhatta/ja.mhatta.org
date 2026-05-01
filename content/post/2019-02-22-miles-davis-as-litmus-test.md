@@ -9,6 +9,8 @@ slug = "miles-davis-as-litmus-test"
 share = true
 featured = false
 image = "https://m.media-amazon.com/images/I/81MCxz3PUNL._SS500_.jpg"
+archives = ["2019/02"]
+categories = ["jazz"]
 +++
 
 先日、ピアニストのイーサン・アイヴァーソンが、一般にマイルス・デイヴィスの傑作とされる三作に関し、次のような一連のツイートをして物議を醸していた。

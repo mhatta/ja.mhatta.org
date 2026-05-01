@@ -11,7 +11,8 @@ share = true
 slug = "sir-charles-thompson"
 tags = ["jazz", "sir_charles_thompson", "obit"]
 title = "サー・チャールズ・トンプソン"
-
+archives = ["2016/09"]
+categories = ["jazz"]
 +++
 6月16日に[サー・チャールズ・トンプソン](https://en.wikipedia.org/wiki/Charles_Thompson_(jazz))が亡くなっていたことを知った。享年98。
 

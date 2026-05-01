@@ -6,6 +6,8 @@ title: 'Charlie Parker Records: The Complete Collection Vol. 3'
 url: /blog/2015/12/20/charlie-parker-records-the-complete-collection-vol-3/
 image: http://ecx.images-amazon.com/images/I/51GCC4i8k5L.jpg
 description: 謎のレーベルCharlie Parker Recordsの話の続き。ディスク3はマンデル・ロウによる映画音楽に加え、怪人ユセフ・ラティーフによるハードバップ作を収録している。
+archives: ["2015/12"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B006ZUKBJ4/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51GCC4i8k5L.jpg" alt="Charlie Parker Records: The Complete Collection" style="border: none;" /></a>

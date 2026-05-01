@@ -6,6 +6,8 @@ title: 'Some Other Time: The Lost Session From The Black Forest / Bill Evans'
 url: /blog/2016/04/26/some-other-time-the-lost-session-from-the-black-forest-slash-bill-evans/
 image: http://ecx.images-amazon.com/images/I/51w7Eza0LML.jpg
 description: ビル・エヴァンスは好きだが熱狂的なファンというほどではないし、彼の魅力や偉さはもう十分分かっているので、CD2枚組だしパスしようかなと思っていたのだが、好奇心に負けてつい買ってしまった。
+archives: ["2016/04"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01C6QZGTK/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51w7Eza0LML.jpg" alt="サム・アザー・タイム:ザ・ロスト・セッション・フロム・ザ・ブラック・フォレスト [日本語帯・書き下ろし解説、英文解説全訳付] [輸入CD]" style="border: none;" /></a>

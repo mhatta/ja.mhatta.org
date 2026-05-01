@@ -11,7 +11,8 @@ share = true
 slug = "don-friedman"
 tags = ["jazz", "obit"]
 title = "ドン・フリードマン"
-
+archives = ["2016/09"]
+categories = ["jazz"]
 +++
 
 6月30日に[ドン・フリードマン](https://en.wikipedia.org/wiki/Don_Friedman)が亡くなっていたことを今ごろ知った。享年81。つい数年前にも来日していたくらいで、死の直前まで活躍していた。まあ大往生の部類でしょう。

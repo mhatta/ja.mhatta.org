@@ -8,6 +8,7 @@ author: "Masayuki Hatta"
 draft: false
 date: 2022-01-23
 archives: ["2022/01"]
+categories: ["jazz"]
 ---
 
 これも2021年の発掘盤。1987年、ヘルシンキでのライヴ音源。

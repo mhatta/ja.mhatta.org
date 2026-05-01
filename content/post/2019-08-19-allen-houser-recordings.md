@@ -9,6 +9,8 @@ slug = "allen-houser-recordings"
 share = true
 featured = false
 image = "https://images-fe.ssl-images-amazon.com/images/I/61EXjQW3mcL.jpg"
+archives = ["2019/08"]
+categories = ["jazz"]
 +++
 
 アレン・ハウザーというトランペッターのことを知っている人はごく少ないと思うが、個人的には好きなプレーヤーの一人である。リー・モーガンに強い影響を受けたと思しいオーソドックスなスタイルで、モーガンほど押しは強くないものの、思い切りの良いフレージングと若干翳りを帯びた音色がなかなか気持ち良い。

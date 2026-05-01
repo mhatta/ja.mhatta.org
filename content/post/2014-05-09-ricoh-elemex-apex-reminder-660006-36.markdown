@@ -1,11 +1,13 @@
 ---
-tags: ["gadgets","watch"]
+tags: ["watch"]
 comments: true
 date: 2014-05-09T11:48:07Z
 title: Ricoh Elemex Apex Reminder 660006-36
 url: /blog/2014/05/09/ricoh-elemex-apex-reminder-660006-36/
 image: "http://ecx.images-amazon.com/images/I/41KobaSjZqL.jpg"
 description: ご存じの方も多いと思うがポモドーロ・テクニックというのがありまして、一応実践している。根拠はずいぶん怪しげというかいい加減な話ではあるのだが、30分くらいで強制的に仕事に区切りを付けるというのは、それなりに妥当な仕事のコツだとは思うのですよ。
+archives: ["2014/05"]
+categories: ["gadgets"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00IR6WRXC/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41KobaSjZqL.jpg" alt="[リコー]RICOH 腕時計 アペックスリマインダー アナログ表示 10気圧防水 電磁誘導充電式 バイブレーションアラーム クロコダイルベルト 日本製 ブラック 660006-36 メンズ" style="border: none;" /></a>
 

@@ -6,6 +6,8 @@ tags = ["jazz", "toshiyuki-miyama-and-his-new-herd"]
 draft = false
 slug = "beat-generation-toshiyuki-miyama-and-his-new-herd"
 image = "https://i.discogs.com/sk0ALjGj-gfQJIqtWeJFCUqS0q8knjqAHighFt06iXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM0/NzMzLTE1MDg2NDQ1/MDktMTIxMy5qcGVn.jpeg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 私の印象ではひとくちにジャズが好きと言っても小編成派とビッグバンド派があって、両者はあまりかぶっていないのである。前者は演奏者の個人芸というかソロにおける即興演奏の素晴らしさに関心があり、後者は一糸乱れぬアンサンブルや編曲の妙に魅力を感じている。なので、ソロはぶち切れていても調律はいい加減でテーマの合奏もぐだぐだみたいな演奏は後者には理解しがたいし、楽器はうまくて音はブリリアントだが没個性で即興がまるで出来ない人とかをありがたがるのは前者にとってはようわからんということになる。ただの音楽ファン vs. 吹奏楽部上がりみたいな出自の違いもあるのかもしれない。

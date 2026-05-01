@@ -6,6 +6,8 @@ title: "Tough Tenors Again 'N' Again / Eddie Lockjaw Davis & Johnny Griffin"
 url: /blog/2013/01/31/tough-tenors-again-n-again-slash-eddie-lockjaw-davis-and-johnny-griffin/
 image: "http://ecx.images-amazon.com/images/I/517g3kAssbL.jpg"
 description: このところMPSレーベルの再発が地味に進んでいてうれしいのだが（しかしいつまで経ってもバリー・ハリスやハンク・ジョーンズのトリオものは出ない）、これもそうしたものの一枚。ドイツ製の輸入盤なのに紙ジャケ、しかも一部日本語が書かれた紙の帯が巻いてあるという謎仕様なのだが、まあそれだけ日本の市場を意識してるんでしょう。
+archives: ["2013/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007Y59CDA/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/517g3kAssbL.jpg" alt="Tough Tenors Again 'n'" style="border: none;" /></a>
 

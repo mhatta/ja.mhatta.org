@@ -6,6 +6,8 @@ title: Betwixt / Pandelis Karayorgis
 url: /blog/2013/01/08/betwixt-slash-pandelis-karayorgis/
 image: "http://ecx.images-amazon.com/images/I/51kxGOq1MqL.jpg"
 description: アク—スティック・ピアノ、いわゆる生ピアノは、少なくともジャズにおいては、可能性がすでに尽きているのではないかと思うことがある。ただ弾くぶんには相変わらず楽しいし好きなのだが、音楽的にはオーソドックスなものからフリーまで、器楽奏法的にも肘打ちからプリペアドまでもうあらかた出尽くしているわけで、ピアノが入るだけで今までのジャズの伝統に押しつぶされるというか、過去の空気がもわっと立ち上がるようなところは否めない。 
+archives: ["2013/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0018Q3XTK/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51kxGOq1MqL.jpg" alt="Betwixt" style="border: none;" /></a>
 

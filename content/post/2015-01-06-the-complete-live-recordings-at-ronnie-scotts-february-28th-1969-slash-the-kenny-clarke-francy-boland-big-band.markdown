@@ -6,6 +6,8 @@ title: The Complete Live Recordings At Ronnie Scott's February 28th 1969 / the K
 url: /blog/2015/01/06/the-complete-live-recordings-at-ronnie-scotts-february-28th-1969-slash-the-kenny-clarke-francy-boland-big-band/
 image: "http://ecx.images-amazon.com/images/I/41DM8mc3RRL.jpg"
 description: タイトルの通り、1969年2月28日、ロンドンのジャズクラブ「ロニー・スコッツ」におけるCBBBのライヴ録音。店主ロニー・スコットはテナー・サックス奏者でCBBBのレギュラーでもあり、このレコーディングにも参加している。CBBBの屋台骨を長らく支えたベーシストのジミー・ウッドはこの日は他に用事があったようで、代わりにスコットランド人の名手ロニー・マシューソンが参加。
+archives: ["2015/01"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003ZDXV7I/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41DM8mc3RRL.jpg" alt="Complete Live Recordings at Ronnie Scott's-Februar" style="border: none;" /></a>

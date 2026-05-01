@@ -11,7 +11,8 @@ share = true
 slug = "principle-of-detecting-cheating-in-chess"
 tags = ["shogi", "chess"]
 title = "チェスにおけるチート分析の原則"
-
+archives = ["2016/10"]
+categories = ["chess"]
 +++
 <script type="text/javascript"
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">

@@ -11,7 +11,8 @@ share = true
 slug = "cheating-in-chess"
 tags = ["shogi", "chess"]
 title = "チェスにおけるコンピュータ不正行為の歴史"
-
+archives = ["2016/10"]
+categories = ["chess"]
 +++
 
 将棋における不正疑惑がこのところ[話題](http://mainichi.jp/articles/20161019/k00/00m/040/014000c)だが、お隣のチェスではどうなんだろうと思った。私は一応チェスも指すのである（将棋と同じくらい弱いが）。調べてみると、Wikipediaにすでに[Cheating in chess](https://en.wikipedia.org/wiki/Cheating_in_chess)というそのものずばりの項目があった。

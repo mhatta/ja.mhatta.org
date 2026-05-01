@@ -6,6 +6,8 @@ tags = ["jazz", "bob-james"]
 draft = false
 slug = "bob-james-these-days"
 image = "https://c.media-amazon.com/images/I/91kiQfVugYL._AC_SL1500_.jpg"
+archives = ["2024/06"]
+categories = ["jazz"]
 +++
 
 最近NPRのTiny Desk Concertを見ていたら、ボブ・ジェームズが出ていて驚いた。演奏もなかなか良かった。iPadの譜面見ながら演奏しているあたりが今風である。

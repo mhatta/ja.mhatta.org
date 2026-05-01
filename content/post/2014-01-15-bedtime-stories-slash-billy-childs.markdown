@@ -6,6 +6,7 @@ title: Bedtime Stories / Billy Childs
 url: /blog/2014/01/15/bedtime-stories-slash-billy-childs/
 image: "http://ecx.images-amazon.com/images/I/4199KAVJWYL.jpg"
 description: 年末年始は情けないことにぎっくり腰になってしまい、文字通り身動きが出来ず何も出来なかった。そんなわけで買ったまま放置というか積ん聴（？）していたCDを黙々と消化していたのだが、これもその一枚。
+archives: ["2014/01"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0000516W8/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/4199KAVJWYL.jpg" alt="Bedtime Stories" style="border: none;" /></a>
 

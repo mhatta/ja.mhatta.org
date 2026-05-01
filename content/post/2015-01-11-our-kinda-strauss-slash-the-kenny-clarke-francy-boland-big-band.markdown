@@ -6,6 +6,8 @@ title: Our Kinda Strauss / the Kenny Clarke - Francy Boland Big Band
 url: /blog/2015/01/11/our-kinda-strauss-slash-the-kenny-clarke-francy-boland-big-band/
 image: "http://ecx.images-amazon.com/images/I/51mSsDrU0AL.jpg"
 description: 長らく廃盤だったCBBBことケニー・クラーク=フランシー・ボラン・ビッグバンドの諸作をがんがんCDで再発してくれる奇特な会社があって、それがRearwardというレーベルである。私もよく知らないのだが、どうもイタリア・ミラノに拠点を置きクラブ・ジャズを主に手がけるSchemaレーベルというのがあり、これのリイシュー専門サブレーベルがRearward、ということらしい。CDには、「REARWARD is a research division of Schema Records」と書いてある。
+archives: ["2015/01"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00000JAXM/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51mSsDrU0AL.jpg" alt="Our Kinda Strauss" style="border: none;" /></a>

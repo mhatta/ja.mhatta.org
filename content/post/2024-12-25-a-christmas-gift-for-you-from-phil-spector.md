@@ -6,6 +6,8 @@ tags = ["jazz", "phil-spector"]
 draft = false
 slug = "a-christmas-gift-for-you-from-phil-spector"
 image = "https://i.discogs.com/Dqh_YrTuzTRID75HWD77oQWfhvdMBeoTdSiVUd8_hxM/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI0/MzEtMTM0NDc5ODg2/My05ODk0LmpwZWc.jpeg"
+archives = ["2024/12"]
+categories = ["jazz"]
 +++
 
 クリスマス・アルバムはそれこそ星の数ほどあるが、個人的にはクリスマスにはこれを聞くことが多い。スタイルとしてはオールディーズというか今となっては古くさいものだが、驚くほどの熱量が込められている。陳腐で悪趣味で残忍ですらある商業主義と純粋な宗教心や愛や喜びの両立という、クリスマスというイベントの独特な性格をここまで良く表しているものは他にない。

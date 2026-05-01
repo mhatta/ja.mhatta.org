@@ -6,6 +6,8 @@ tags = ["jazz", "johnny-smith"]
 draft = false
 slug = "johnny-smith-unreleased-live-recordings"
 image = "https://i.discogs.com/cnGNGB3LCVwT0_8iaciBvOyIn7VtRKFCqrQ5A6uCiZU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzcz/Njg5LTE1OTc2MjM0/NzItOTU4Mi5qcGVn.jpeg"
+archives = ["2024/12"]
+categories = ["jazz"]
 +++
 
 これらも2024年の発掘音源。

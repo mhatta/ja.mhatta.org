@@ -6,6 +6,7 @@ title: Beyond Quantum / Anthony Braxton, Milford Graves, William Parker
 url: /blog/2012/10/21/beyond-quantum-slash-braxton/
 image: "http://ecx.images-amazon.com/images/I/41xjqzJjzRL.jpg"
 description: アンソニー・ブラクストンというと、端的に言ってキワモノという根強い偏見があって食わず嫌いしていたのだが、息子のチョンダイや、メアリー・ハルヴァーソンらウェズリアン大学での弟子たちの活躍もあって、最近ではちょっと師匠の彼にも興味が湧いてきた。
+archives: ["2012/10"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001BJ65HQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41xjqzJjzRL.jpg" alt="Beyond Quantum" style="border: none;" /></a>
 

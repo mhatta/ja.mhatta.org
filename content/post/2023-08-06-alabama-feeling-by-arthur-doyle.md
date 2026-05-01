@@ -6,6 +6,8 @@ tags = ["jazz", "arthur-doyle"]
 draft = false
 slug = "alabama-feeling-by-arthur-doyle"
 image = "https://i.discogs.com/ef_ImQhAX-FOmNiflcL6u6fbYsEn9Ay5qY6tKNKaP6o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODU0/NjQtMTMwODQyMzky/Ny5qcGVn.jpeg"
+archives = ["2023/08"]
+categories = ["jazz"]
 +++
 
 体調はほぼ良くなったのだが、相変わらずフリージャズばかり聞いている。体が求めるというか、なんかそういう時期があるんですかねえ。老化かもしれんが。

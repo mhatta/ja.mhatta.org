@@ -6,6 +6,8 @@ tags = ["jazz", "philly-joe-jones", "birdland"]
 draft = false
 slug = "philly-joe-jones-birdland-airchecks"
 image = "https://m.media-amazon.com/images/I/518CerY8LXL._UX500_FMwebp_QL85_.jpg"
+archives = ["2024/03"]
+categories = ["jazz"]
 +++
 
 [フィリー・ジョー・ジョーンズ](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA)というとマイルス・デイヴィスやビル・エヴァンスが最も愛したドラマー、ハードバップ黄金期の名サイドマンという印象が強いが、リーダーとしてグループを率いなかったわけではない。というわけで去年になって彼が1960年代初頭にやっていたグループのライヴの未発表エアチェック（放送録音）が2つ発掘された。例によってブートレグ王ボリス・ローズ由来のようだ。

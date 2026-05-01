@@ -10,6 +10,7 @@ featured = false
 slug = "rip-lee-konitz"
 image = "https://images-na.ssl-images-amazon.com/images/I/51O7KQOCB5L._AC_.jpg"
 archives = ["2020/04"]
+categories = ["jazz"]
 +++
 
 このところ音楽関係者も次々と新型コロナウイルスの犠牲となっているが、[リー・コニッツ](https://en.wikipedia.org/wiki/Lee%5FKonitz)も亡くなってしまった。去年くらいまで普通にライヴで演奏していたので突然の死という感じもするが、改めて考えてみるととうに90歳を越えていた（享年92）わけで、怪物である。

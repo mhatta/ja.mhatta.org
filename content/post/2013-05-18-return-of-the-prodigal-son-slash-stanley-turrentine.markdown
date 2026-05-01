@@ -6,6 +6,8 @@ title: Return Of The Prodigal Son / Stanley Turrentine
 url: /blog/2013/05/18/return-of-the-prodigal-son-slash-stanley-turrentine/
 image: "http://ecx.images-amazon.com/images/I/51vRtmP9QfL.jpg"
 description: 2008年に出たブルーノートの発掘盤。といっても大方はすでに何らかの形で表に出ていて、完全未発表は3曲だけだと思う。1967年の6月と7月に行われた2回のセッションにおける録音をまとめたもので、後者はアルフレッド・ライオンが自らプロデュースした最後のセッションとなった。
+archives: ["2013/05"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0016CP39E/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51vRtmP9QfL.jpg" alt="Return of the Prodigal Son" style="border: none;" /></a>
 

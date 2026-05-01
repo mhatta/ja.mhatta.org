@@ -6,6 +6,8 @@ tags = ["jazz", "harold-mabern"]
 draft = false
 slug = "harold-mabern-in-retrospect"
 image = "https://m.media-amazon.com/images/I/41JCQ8H1KSL._AC_.jpg"
+archives = ["2024/05"]
+categories = ["jazz"]
 +++
 
 2018年から2019年にかけて、たまたましばらくNYC（というかニュージャージー）にいたのだが、夜はジャズ・クラブへライヴをよく見に行った。本日出演として名前を割と良く見かけたのがハロルド・メイバーンだった。

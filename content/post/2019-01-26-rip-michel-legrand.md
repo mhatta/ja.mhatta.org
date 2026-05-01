@@ -9,6 +9,8 @@ slug = "rip-michel-legrand"
 share = true
 featured = false
 image = "https://m.media-amazon.com/images/I/71o1HLoPhzL._SS500_.jpg"
+archives = ["2019/01"]
+categories = ["jazz"]
 +++
 
 ミシェル・ルグランが亡くなった（[The Guardianの記事](https://www.theguardian.com/music/2019/jan/26/michel-legrand-oscar-winning-composer-dies-aged-86)）。86歳だから年齢的には大往生だが、去年の夏も来日して[ブルーノート東京で達者なピアノを弾いていた](http://www.bluenote.co.jp/jp/artists/michel-legrand/)らしいし、先日パリを歩いていたら、地下鉄の駅に今年の春（たしか）シルヴァン・リュックとかとコンサートをやるというポスターが貼られていたくらいなので、死の直前まで元気に仕事をこなしていたのだろう。ある意味うらやましいことである。

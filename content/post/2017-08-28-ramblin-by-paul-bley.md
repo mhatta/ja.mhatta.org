@@ -11,7 +11,8 @@ draft = false
 date = "2017-08-28T20:55:24+09:00"
 description = "1966年7月1日、イタリア・ローマにおけるスタジオ録音である。翌年フランスのBYG Actuelレーベルから発売された。"
 featured = false
-
+archives = ["2017/08"]
+categories = ["jazz"]
 +++
 
 1966年7月1日、イタリア・ローマにおけるスタジオ録音である。翌年フランスの[BYG Actuel](https://en.wikipedia.org/wiki/BYG_Actuel)レーベルから発売された。といってもBYG Actuelが設立されたのは1967年3月なので、ブレイが自主的に録音したテープを持ち込んだのだろう。BYG Actuelは今でこそ伝説の前衛ジャズレーベルだが、当時は散々ギャラを踏み倒したあげく夜逃げしたとかで、後年再発されるときには当時録音したりレーベル仕切りのフェスに出たりした連中と揉めていたが（再発を手がけた[Charly Records](https://en.wikipedia.org/wiki/Charly_Records)の設立者はようするにBYGのYの人だったので、怒るのも当然ではある）、ブレイも大したお金はもらえていないでしょうね。

@@ -6,6 +6,8 @@ title: 藤森流急戦矢倉 / 藤森哲也
 url: /blog/2015/01/18/fujimori-ryu-kyusen-yagura-slash-tetsuya-fujimori/
 image: "http://ecx.images-amazon.com/images/I/61b2Q7%2BLaWL.jpg"
 description: 今となってはゲームはほとんどやらなくなってしまったが、将棋は相変わらずよく指している。以前も書いた通り元々ヘボ振り飛車党だったのですが、最近はヘボ居飛車党に宗旨替えしまして、まあ相変わらずヘボであることには違いがない。
+archives: ["2015/01"]
+categories: ["books"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4839951926/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/61b2Q7%2BLaWL.jpg" alt="藤森流急戦矢倉 (マイナビ将棋BOOKS)" style="border: none;" /></a>

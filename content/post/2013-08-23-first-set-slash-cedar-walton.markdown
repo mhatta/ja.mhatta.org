@@ -6,6 +6,7 @@ title: First Set / Cedar Walton
 url: /blog/2013/08/23/first-set-slash-cedar-walton/
 image: "http://ecx.images-amazon.com/images/I/51piSv5nrbL.jpg"
 description: ジャズ・ピアニスト、シダー・ウォルトンが亡くなった。79歳。同世代のスター・ピアニストたち――たとえばウィントン・ケリーやボビー・ティモンズ――の多くが早世したことを思えば、まあ大往生の部類であろう。後には膨大な録音が遺された。
+archives: ["2013/08"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000027UIW/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51piSv5nrbL.jpg" alt="First Set" style="border: none;" /></a>
 

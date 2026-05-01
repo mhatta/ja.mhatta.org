@@ -6,6 +6,8 @@ title: 2 Princes Of Darkness
 url: /blog/2016/04/24/2-princes-of-darkness/
 image: http://ecx.images-amazon.com/images/I/41fdbpjQIhL.jpg
 description: プリンスが亡くなった。57歳。
+archives: ["2016/04"]
+categories: ["rock"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000002MNF/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41fdbpjQIhL.jpg" alt="Hits & B-Sides" style="border: none;" /></a>

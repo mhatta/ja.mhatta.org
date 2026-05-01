@@ -11,7 +11,8 @@ draft = false
 date = "2017-08-27T15:56:24+09:00"
 description = "ジャズ・ギタリストのジョン・アバークロンビーが亡くなった。享年72。"
 featured = false
-
+archives = ["2017/08"]
+categories = ["jazz"]
 +++
 ジャズ・ギタリストの[ジョン・アバークロンビー](https://en.wikipedia.org/wiki/John_Abercrombie_(guitarist))が亡くなった。享年72。
 

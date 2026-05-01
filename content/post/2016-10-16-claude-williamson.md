@@ -11,7 +11,8 @@ share = true
 slug = "claude-williamson"
 tags = ["jazz", "obit"]
 title = "クロード・ウィリアムソン"
-
+archives = ["2016/10"]
+categories = ["jazz"]
 +++
 最近このパターンばかりだが、[クロード・ウィリアムソン](https://en.wikipedia.org/wiki/Claude_Williamson)が7月に亡くなっていたことを今ごろ知った。享年89。昨年2月に自宅の階段から落ちて以来、ついに再起できなかったようだ。
 

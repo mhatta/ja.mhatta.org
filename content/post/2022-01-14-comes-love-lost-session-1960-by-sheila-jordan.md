@@ -8,6 +8,7 @@ author: "Masayuki Hatta"
 draft: false
 date: 2022-01-14
 archives: ["2022/01"]
+categories: ["jazz"]
 ---
 
 これも去る2021年の発掘盤。

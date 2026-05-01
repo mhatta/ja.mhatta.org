@@ -6,6 +6,8 @@ tags = ["jazz", "john-coltrane"]
 draft = false
 slug = "john-coltrane-european-tour-1961"
 image = "https://m.media-amazon.com/images/I/71kMGmwGExL._AC_SL1500_.jpg"
+archives = ["2024/03"]
+categories = ["jazz"]
 +++
 
 ジョン・コルトレーンはやる曲はだいたい同じでも時期によって案外やっている音楽の内容というか雰囲気が変わっているのだが、個人的にはエリック・ドルフィーを擁して1961年11月に行ったヨーロッパ・ツアーでの演奏がいちばん好きだ。このときの音源はブートレグも含めればほぼ出そろっているものの、リイシューや重複が多く情報が錯綜している。ということで、個人的な整理というかメモ書きを残すことにした。

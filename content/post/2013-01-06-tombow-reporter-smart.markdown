@@ -1,11 +1,13 @@
 ---
-tags: ["gadgets"]
+tags: ["stationery"]
 comments: true
 date: 2013-01-06T00:00:00Z
 title: トンボ リポーター スマートの話
 url: /blog/2013/01/06/tombow-reporter-smart/
 image: "http://ecx.images-amazon.com/images/I/21cyxKourML.jpg"
 description: ここ数年で一番派手にイノベーションが起こった分野は、ボールペンの世界だったような気がする。油性ボールペンには滑りが悪くて書きにくいというイメージがあったものだが、それが今では大きく様変わりした。その先駆となったのが三菱鉛筆のジェットストリームだが、あれを初めて使ったときはまあびっくりしましたね。「ジェットストリーム革命」みたいなものが確かにあったのだ。それが10年くらい前。
+archives: ["2013/01"]
+categories: ["gadgets"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00777S9A2/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/21cyxKourML.jpg" alt="トンボ鉛筆 ４色ボールペン　リポータースマート　黒軸" style="border: none;" /></a>
 

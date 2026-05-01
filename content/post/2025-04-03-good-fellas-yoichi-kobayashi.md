@@ -6,6 +6,8 @@ tags = ["jazz", "yoichi-kobayashi", "goodfellas"]
 draft = false
 slug = "good-fellas-yoichi-kobayashi"
 image = "https://i.discogs.com/Phvm-koDIxxFTSvLRnNKfCPYa23g13I5RUaO3aLBnjI/rs:fit/g:sm/q:90/h:466/w:470/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzI2/NzktMTMyMTU2OTQ0/NC5qcGVn.jpeg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 和ジャズとか言ってもてはやされていたけれど、個人的には日本人が演奏する、特に2000年代以前とかの昔のストレート・アヘッドなジャズにはあまり関心が持てなかった。それは結局ノリというかリズムに違和感があったからなのだが、まあこれは当方がハードバップとかファンクとか、要するに黒人的なノリに浸りすぎているからだろう。ヨーロッパもそうだったが、結局1960年代以降の非黒人のミュージシャンの多くはノリとかグルーヴをあまり必要としない（というのは語弊があって、分かりやすい定常ビートがなくとも内在的なリズム感というのは常にあるのだけれど）フリーの方向に向かったわけで、そちらの方面では日本人も大きな成果を挙げている。逆に最近ではドラムスの教育メソッドが確立されたということなのか、若い世代はどこの国でもほとんど同じリズム・フィールで演奏しているように思える。それはそれで個性という点で良いのかという気がしなくもないが…。

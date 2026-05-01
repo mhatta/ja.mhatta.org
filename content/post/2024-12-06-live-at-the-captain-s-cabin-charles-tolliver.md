@@ -6,6 +6,8 @@ tags = ["jazz", "charles-tolliver"]
 draft = false
 slug = "live-at-the-captain-s-cabin-charles-tolliver"
 image = "https://i.discogs.com/jJUBSbBFYX_DzbQB-zMzvPWaSxJuhC0RiLz3o6gsTik/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDMy/MDkxLTE3MzI5MDkw/MzktMjI0OS5qcGVn.jpeg"
+archives = ["2024/12"]
+categories = ["jazz"]
 +++
 
 これも2024年の発掘盤。

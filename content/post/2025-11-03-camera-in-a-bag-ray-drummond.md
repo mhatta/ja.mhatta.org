@@ -6,6 +6,8 @@ tags = ["jazz", "ray-drummond", "obit"]
 draft = false
 slug = "camera-in-a-bag-ray-drummond"
 image = "https://m.media-amazon.com/images/I/61ZcbKGcnhL._AC_SX679_.jpg"
+archives = ["2025/11"]
+categories = ["jazz"]
 +++
 
 ジャズ・ベーシストの[レイ・ドラモンド](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%89%E3%83%A9%E3%83%A2%E3%83%B3%E3%83%89)が亡くなった。享年78。

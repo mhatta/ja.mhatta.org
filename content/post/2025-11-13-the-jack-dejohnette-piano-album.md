@@ -6,6 +6,8 @@ tags = ["jazz", "jack-dejohnette", "obit"]
 draft = false
 slug = "the-jack-dejohnette-piano-album"
 image = "https://m.media-amazon.com/images/I/5120W+X-XJL._AC_.jpg"
+archives = ["2025/11"]
+categories = ["jazz"]
 +++
 
 ドラムスが本業の故ジャック・デジョネットが本腰を入れてピアノを弾いている作品は、先日取りあげた1973年の[『Jackeyboard』](https://ja.mhatta.org/blog/2025/11/09/jackeyboard-jack-dejonette/)くらいしか無いかなと思っていた。ところが、その名も「ピアノ・アルバム」があるだろうという温かいコメントを頂いた。全くノーマークでした…。1985年の録音である。『Jackeyboard』は日本録音ということもあり、古野光昭、ジョージ大塚という日本勢がバックを務めていた。一方こちらは、ベースがエディ・ゴメス、ドラムスがナシートの父フレディ・ウェイツという陣容だ。

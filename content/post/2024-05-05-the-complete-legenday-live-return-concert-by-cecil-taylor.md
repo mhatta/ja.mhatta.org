@@ -6,6 +6,8 @@ tags = ["jazz", "cecil-taylor"]
 draft = false
 slug = "the-complete-legenday-live-return-concert-by-cecil-taylor"
 image = "https://m.media-amazon.com/images/I/51VC0qVk1AL._UX716_FMwebp_QL85_.jpg"
+archives = ["2024/05"]
+categories = ["jazz"]
 +++
 
 最近はCDではなく[Bandcamp](https://oblivionrecords2.bandcamp.com/album/the-complete-legendary-live-return-concert-at-the-town-hall-nyc-november-4-1973)でダウンロードの音源を買うことが多い。新録のみならずリイシューや発掘ものもここから出ることが多いのである。これもその一つ。

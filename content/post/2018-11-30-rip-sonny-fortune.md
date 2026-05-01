@@ -9,6 +9,8 @@ slug = "rip-sonny-fortune"
 share = true
 featured = false
 image = "https://images-fe.ssl-images-amazon.com/images/I/51IzbuTqlkL._SS500.jpg"
+archives = ["2018/11"]
+categories = ["jazz"]
 +++
 
 [ソニー・フォーチュン](https://en.wikipedia.org/wiki/Sonny%5FFortune)も今年10月に亡くなっていた。1939年生まれなので享年79か。

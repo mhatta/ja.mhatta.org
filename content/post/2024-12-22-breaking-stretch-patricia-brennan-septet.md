@@ -6,6 +6,8 @@ tags = ["jazz", "patricia-brennan"]
 draft = false
 slug = "breaking-stretch-patricia-brennan-septet"
 image = "https://i.discogs.com/6OJnMpzgsxnIYK8TiAnyq-ZJ_R1QAoyzMoBinXfwOgQ/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODA1/NTc2LTE3MjcwOTA2/MTktOTQ3MS5qcGVn.jpeg"
+archives = ["2024/12"]
+categories = ["jazz"]
 +++
 
 発掘ものばかり挙げるのもなんなので、2024年の新録で個人的に気に入っているものを1枚だけ紹介。例によって[Bandcamp](https://patriciabrennan.bandcamp.com/album/breaking-stretch)で知ったわけですが。

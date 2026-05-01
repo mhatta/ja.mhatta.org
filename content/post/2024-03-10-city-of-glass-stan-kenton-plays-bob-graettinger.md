@@ -6,6 +6,8 @@ tags = ["jazz", "stan-kenton", "bob-graettinger"]
 draft = false
 slug = "city-of-glass-stan-kenton-plays-bob-graettinger"
 image = "https://m.media-amazon.com/images/I/61CxgGYiodL._UX716_FMwebp_QL85_.jpg"
+archives = ["2024/03"]
+categories = ["jazz"]
 +++
 
 「シティ・オブ・グラス」と言われると[ポール・オースター](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC)の[ニューヨーク三部作](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E4%B8%89%E9%83%A8%E4%BD%9C)を思い浮かべる人も多いだろうが、これは音楽の話である（オースターは知っていたのかしら？）。

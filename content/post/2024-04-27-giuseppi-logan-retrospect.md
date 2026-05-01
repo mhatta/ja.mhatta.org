@@ -6,6 +6,8 @@ tags = ["jazz", "giuseppi-logan"]
 draft = false
 slug = "giuseppi-logan-retrospect"
 image = "https://m.media-amazon.com/images/I/413EE1SjzqL._AC_.jpg"
+archives = ["2024/04"]
+categories = ["jazz"]
 +++
 
 新型コロナ禍の犠牲となったジャズマンは多くいるが、ジュゼッピ・ローガンもその一人だった。2020年の4月に亡くなったのでちょうど没後4年である、享年84。

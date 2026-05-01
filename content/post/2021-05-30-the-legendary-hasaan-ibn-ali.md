@@ -7,6 +7,7 @@ draft = false
 slug = "the-legendary-hasaan-ibn-ali"
 image = "https://images-na.ssl-images-amazon.com/images/I/61og3tABf7S._AC_SL1200_.jpg"
 archives = ["2021/05"]
+categories = ["jazz"]
 +++
 
 アメリカのレコード業界は音源の物理的管理という点では甚だまずく、かつては紛失や盗難が日常茶飯事だったようだし（だからブートレグになって流出する）、数度にわたってセッション・テープを焼失させる火災も起こしている。1978年の火災ではAtlanticレーベルのテープがあらかた燃えてしまい、2008年にはUniversalの倉庫が燃えてしまった。

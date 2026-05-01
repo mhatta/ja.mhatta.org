@@ -10,6 +10,7 @@ share = true
 featured = false
 image = "https://m.media-amazon.com/images/I/51SCLHx7N1L._AC_.jpg"
 archives = ["2020/02"]
+categories = ["jazz"]
 +++
 
 数日前のことだが、[ライル・メイズ](https://ja.wikipedia.org/wiki/%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%25A1%25E3%2582%25A4%25E3%2582%25BA)が亡くなったと聞いて驚いた。66歳とのことで、今では若死にの部類だろう。

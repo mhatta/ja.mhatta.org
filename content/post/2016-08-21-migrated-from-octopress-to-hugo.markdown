@@ -11,7 +11,8 @@ share = true
 slug = "migrated-from-octopress-to-hugo"
 tags = ["octopress", "hugo", "blogging"]
 title = "OctopressからHugoへ移行"
-
+archives = ["2016/08"]
+categories = ["etc"]
 +++
 ブログの静的生成システムをOctopressからHugoへ移行した。
 

@@ -6,6 +6,8 @@ tags = ["jazz", "kazumi-watanabe"]
 draft = false
 slug = "kazumi-watanabe-mobo"
 image = "https://m.media-amazon.com/images/I/416MTCZMKdL._AC_.jpg"
+archives = ["2024/03"]
+categories = ["jazz"]
 +++
 
 80年代中盤、渡辺香津美が「MOBO」を冠して発表したアルバムがいくつかあって、子供のころよく聞いていた。といってもリアルタイムではなく、近所の図書館にCDがあったので借りて聞いたのである。

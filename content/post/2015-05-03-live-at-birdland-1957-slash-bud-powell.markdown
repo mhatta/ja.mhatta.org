@@ -6,6 +6,8 @@ title: Live At Birdland 1957 / Bud Powell
 url: /blog/2015/05/03/live-at-birdland-1957-slash-bud-powell/
 image: "http://ecx.images-amazon.com/images/I/515C92Eh4DL.jpg"
 description: 一昨年だか去年だかに日本のマシュマロレコードから出て、飛びついたはいいもののちゃんと聞く暇が無くて買ったまま積んであったCDの一枚。1957年10月、NYのクラブ「バードランド」におけるバド・パウエルの未発表ライヴ録音である。すでにマシュマロのCDは売り切れていて、現在では同じ音源はこのハーフ・オフィシャル、というかブートレグのダウンロード音源でしか手に入らないようだ（1～4曲目が相当）。というかこのジャケット写真、パウエルじゃなくてソニー・クラークじゃないのかな…。
+archives: ["2015/05"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00UO0HG44/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/515C92Eh4DL.jpg" alt="Live in Birdland 1957 / Live In Scandinavia 1962" style="border: none;" /></a>

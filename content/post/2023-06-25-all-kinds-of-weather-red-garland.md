@@ -6,6 +6,8 @@ tags = ["jazz", "red-garland"]
 draft = false
 slug = "all-kinds-of-weather-red-garland"
 image = "https://m.media-amazon.com/images/I/71giCuN+7tL._AC_SL1050_.jpg"
+archives = ["2023/06"]
+categories = ["jazz"]
 +++
 
 レッド・ガーランドは1923年の生まれなので、今年生誕100周年なのですね。

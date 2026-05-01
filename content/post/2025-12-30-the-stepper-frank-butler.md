@@ -6,6 +6,8 @@ tags = ["jazz"]
 draft = false
 slug = "the-stepper-frank-butler"
 image = "https://m.media-amazon.com/images/I/610aMez6D3L._AC_SL1024_.jpg"
+archives = ["2025/12"]
+categories = ["jazz"]
 +++
 
 10年くらい前、Elemental Musicが、長年まとまった形でリイシューされてこなかった（日本では徳間ジャパンとかが頑張っていたけど）[Xanaduレーベル](https://en.wikipedia.org/wiki/Xanadu_Records)の諸作を[Xanadu Master Edition](https://www.elemental-music.com/44-xanadu-master-edition-series-cd)と銘打って順次CD化していくという話があり、[おっちゃんとても喜んだ](https://ja.mhatta.org/blog/2015/08/25/plays-tadd-dameron-slash-barry-harris/)のだが、結局最初に出た23枚（当時25枚という話を聞いたのだがあとの2枚はなんだったのだろう）で終わってしまったのである。Xanaduものは全部で211枚あるはずだが、今でもストリーミングにあまり無いし、相変わらず聞くのに骨が折れるジャズ・レーベルと言える。

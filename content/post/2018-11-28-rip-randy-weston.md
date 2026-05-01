@@ -11,6 +11,8 @@ menu= ""                # set "main" to add this content to the main menu
 author = ""
 featured = false
 description = "2018年ももうすぐ終わりだが、今年も多くの著名ミュージシャンがこの世を去った。"
+archives = ["2018/11"]
+categories = ["jazz"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/0822347849/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/5165zVPVjvL.jpg" alt="African Rhythms: The Autobiography of Randy Weston (Refiguring American Music)" style="border: none;" /></a>
 

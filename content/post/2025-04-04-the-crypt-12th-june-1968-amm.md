@@ -6,6 +6,8 @@ tags = ["jazz", "amm"]
 draft = false
 slug = "the-crypt-12th-june-1968-amm"
 image = "https://i.discogs.com/QBCZ-eFvZCtt74iVdZ4CbpHjX3zgRbzYIMUEbKSpX50/rs:fit/g:sm/q:90/h:381/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTk4/OTYtMTM3NzUxMTM1/MC0yOTMyLnBuZw.jpeg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 フリージャズは好きだが純粋なノイズ・ミュージックはあまり馴染みがないのだけれど、イギリスの前衛音楽グループ[AMM](https://en.wikipedia.org/wiki/AMM_(band))が1968年に残した[この作品](https://amzn.to/4jhAGS4)なんかは良く聴く。というか、60年近く前にこういうことをやっていたというのは一体どうなのよ。しかし残念ながら未だに音楽配信には載っていないようだ。本当に良いものは大体配信に無い…。昔出たCDも結構入手が難しいのではないかと思う。

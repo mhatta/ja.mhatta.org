@@ -6,6 +6,8 @@ tags = ["jazz", "max-middleton"]
 draft = false
 slug = "land-of-secrets-max-middleton"
 image = "https://f4.bcbits.com/img/a1424785571_10.jpg"
+archives = ["2025/02"]
+categories = ["jazz"]
 +++
 
 Spotifyに関してはいろいろ言いたいこともありますが、しかし定額聴き放題でないとなかなか手が出ない音楽というのもあるわけで、これなんかもSpotifyが無ければ聴かずに終わったような気がする。20年近く前の発表、それも自主制作みたいなものだったようですし…。いちおう[Bandcampでも売られている](https://maxmiddleton.bandcamp.com/album/land-of-secrets)。この後ミドルトンが出した作品は日本にちなむものがいくつかあるが、ランド・オブ・シークレッツというのはもしかして日本のことなんですかね。Cherry Blossom Blueなんて曲もあるし…。

@@ -6,6 +6,8 @@ title: Easy Walker / Stanley Turrentine
 url: /blog/2013/05/17/easy-walker-slash-stanley-turrentine/
 image: "http://ecx.images-amazon.com/images/I/51TUIF-nc4L.jpg"
 description: 書くべき原稿が、思った以上に進みませんでしてね。困り果てたのでこれを聞いている。
+archives: ["2013/05"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000005GY3/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51TUIF-nc4L.jpg" alt="Easy Walker" style="border: none;" /></a>
 

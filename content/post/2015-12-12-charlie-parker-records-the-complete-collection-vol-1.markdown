@@ -6,6 +6,8 @@ title: 'Charlie Parker Records: The Complete Collection Vol. 1'
 url: /blog/2015/12/12/charlie-parker-records-the-complete-collection-vol-1/
 image: http://ecx.images-amazon.com/images/I/51GCC4i8k5L.jpg
 description: むかしむかし、あるところに、Charlie Parker Recordsというレコード会社があった。チャーリー・パーカーの3番目の妻で法定相続人だった（映画「バード」に出てきたチャン・パーカーは4番目で内縁の妻）ドリス・パーカーが1961年、音楽プロデューサーのオーブリー・メイヒューと共に設立したものである。パーカーがらみの秘蔵音源（というかブートレグのオフィシャル化）に加え、若干の新録音や他レーベルから購入した音源の再リリースなども行ったものの、1965年には活動を停止している。
+archives: ["2015/12"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B006ZUKBJ4/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51GCC4i8k5L.jpg" alt="Charlie Parker Records: The Complete Collection" style="border: none;" /></a>

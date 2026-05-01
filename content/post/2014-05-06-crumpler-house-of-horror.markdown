@@ -1,11 +1,13 @@
 ---
-tags: ["gadgets","bag"]
+tags: ["bag"]
 comments: true
 date: 2014-05-06T13:20:48Z
 title: Crumpler House of Horror
 url: /blog/2014/05/06/crumpler-house-of-horror/
 image: "http://ecx.images-amazon.com/images/I/41KW4qvH7NL.jpg"
 description: はいはいまたどうでもいいうんちくですよ。
+archives: ["2014/05"]
+categories: ["gadgets"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00BIDUUJ4/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41KW4qvH7NL.jpg" alt="crumpler(クランプラー) House of Horror （ハウス・オブ・ホラー） Riflegreen" style="border: none;" /></a>

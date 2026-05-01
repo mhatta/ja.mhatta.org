@@ -6,6 +6,8 @@ tags = ["jazz", "oscar-peterson"]
 draft = false
 slug = "city-lights-live-in-munich-1994-oscar-peterson"
 image = "https://i.discogs.com/vOQBrUyYPuHdE-7nOBiXFblhZ7R7qk-eiuFe0azJa98/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTg1/MDQyLTE3Mjg3ODQ0/MzEtMzEyNS5qcGVn.jpeg"
+archives = ["2024/12"]
+categories = ["jazz"]
 +++
 
 これまた2024年の発掘盤。例によって[Bandcamp](https://oscarpeterson.bandcamp.com/album/city-lights-the-oscar-peterson-quartet-live-in-munich-1994)で知った。

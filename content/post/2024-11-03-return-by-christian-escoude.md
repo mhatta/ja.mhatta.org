@@ -6,6 +6,8 @@ tags = ["jazz", "obit", "christian-escoude"]
 draft = false
 slug = "return-by-christian-escoude"
 image = "https://i.discogs.com/R4SUJI5RTSbbpETo2HteAl0uzGrdOSZhQ7dgAWzXMoU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzk3/MTUtMTY2Mzc3NjYx/Ni0zMjgxLmpwZWc.jpeg"
+archives = ["2024/11"]
+categories = ["jazz"]
 +++
 
 フランスのギタリスト、[クリスチャン・エスクーデ](https://en.wikipedia.org/wiki/Christian_Escoud%C3%A9)というとチャーリー・ヘイデンと組んだ[Gitane](https://amzn.to/3UC8Tlv)しか知らなかったが、最近はこれをよく聞いている。Enjaもそうだが、イタリアの[RED Records](https://en.wikipedia.org/wiki/Red_Records)も大概はすでにCD化されていたり音楽配信されていたりするのに、契約の都合か、なぜか再発されていないものがいくつかある。これもその一枚で、CDには結局ならなかったようだが最近になってSpotify等では（ジャケットを変えて）ようやく配信されるようになった。[今年エスクーデが亡くなった](https://amass.jp/175131/)ことが関係しているのかもしれない。

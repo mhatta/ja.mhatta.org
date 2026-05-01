@@ -6,6 +6,8 @@ title: African Nite / Randy Weston
 url: /blog/2016/04/30/african-nite-slash-randy-weston/
 image: http://ecx.images-amazon.com/images/I/51IfPI-PymL.jpg
 description: ランディ・ウェストンは実力があり、それなりに名もあるが、これといった決定打が無かったように思う。本来の力量は大したことないのに、とにかく一発名盤を残したことで歴史に名を残した人というのもいるわけで、なかなか難しいものである。
+archives: ["2016/04"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00005OMNK/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51IfPI-PymL.jpg" alt="African Nite" style="border: none;" /></a>

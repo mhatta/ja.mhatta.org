@@ -6,6 +6,8 @@ tags = ["jazz", "archie-shepp", "john-tchicai", "don-cherry", "don-moore", "jc-m
 draft = false
 slug = "the-new-york-contemporary-five"
 image = "https://m.media-amazon.com/images/I/61IjPRrPzkL._AC_SL1250_.jpg"
+archives = ["2025/12"]
+categories = ["jazz"]
 +++
 
 何かと気ぜわしい年の瀬に聞くようなものでもないが、偶然久しぶりに聞いてまた感銘を受けた。昔から好きなアルバムなのである。

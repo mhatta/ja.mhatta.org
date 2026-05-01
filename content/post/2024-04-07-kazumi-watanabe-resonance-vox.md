@@ -6,6 +6,8 @@ tags = ["jazz", "kazumi-watanabe", "resonance-vox"]
 draft = false
 slug = "kazumi-watanabe-resonance-vox"
 image = "https://m.media-amazon.com/images/I/413+yICTXcL._AC_.jpg"
+archives = ["2024/04"]
+categories = ["jazz"]
 +++
 
 渡辺香津美が率いたグループで一番好きなのがレゾナンス・ヴォックスだ。共鳴する声、というグループ名からしてかっこいい。

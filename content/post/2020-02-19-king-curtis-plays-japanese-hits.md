@@ -10,6 +10,7 @@ share = true
 featured = false
 image = "https://upload.wikimedia.org/wikipedia/commons/b/b5/King_Curtis.png"
 archives = ["2020/02"]
+categories = ["jazz"]
 +++
 
 [名門Atlanticレーベルのディスコグラフィ](https://www.jazzdisco.org/atlantic-records/)を隅から隅まで読んだことがある人（日本で推定10人くらい）なら、以下のセッション・データを見ておそらく一度くらいは妄想を膨らませたことがあるのではないか。

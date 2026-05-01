@@ -1,11 +1,13 @@
 ---
-tags: ["gadgets"]
+tags: ["geartie"]
 comments: true
 date: 2015-02-12T07:18:53Z
 title: NITE-IZE Gear Tie
 url: /blog/2015/02/12/nite-ize-gear-tie/
 image: "http://ecx.images-amazon.com/images/I/41kv9KtzZwL.jpg"
 description: 本人が自分の欲しいものをよく理解していない、ということがある。不便を感じてはいるのだが、それを解決する具体的なソリューションが分からない、ということがあるわけです。その不便が甚だしく耐えがたいものでない場合、本腰を入れて解決する気にならないので、ずっとマイルドな不便が続くということになる。
+archives: ["2015/02"]
+categories: ["gadgets"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004MMEHKG/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41kv9KtzZwL.jpg" alt="NITEIZE(ナイトアイズ) ギアータイ 3インチ 4本入 アソート GT3-4PK-A1 (日本正規品)" style="border: none;" /></a>
 

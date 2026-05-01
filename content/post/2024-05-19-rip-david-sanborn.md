@@ -6,6 +6,8 @@ tags = ["jazz", "obit", "david-sanborn"]
 draft = false
 slug = "rip-david-sanborn"
 image = "https://m.media-amazon.com/images/I/51IRLcNeTRL._AC_.jpg"
+archives = ["2024/05"]
+categories = ["jazz"]
 +++
 
 デヴィッド・サンボーンが[亡くなった](https://amass.jp/175116/)。新型コロナ禍が始まってからも自宅にゲストを招き[Sanborn Sessions](https://sanbornsessions.com/)などやっていたので健在だと思っていたのだが、長年癌を患っていたらしい。若く見えたがもう78歳だったのですね。

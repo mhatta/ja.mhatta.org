@@ -6,6 +6,8 @@ title: Live At The Village Vanguard / Michel Petrucciani
 url: /blog/2013/05/13/live-at-the-village-vanguard-slash-michel-petrucciani/
 image: "http://ecx.images-amazon.com/images/I/41qdepo6S4L.jpg"
 description: このライヴ盤を買ったのはずいぶん昔のことだが、最近までほとんど聞かなかった。ミシェル・ペトルチアーニを聞く頻度は、他のピアニストと比べてかなり高いにも関わらず、である。
+archives: ["2013/05"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00006CTH7/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41qdepo6S4L.jpg" alt="Live at the Village Vanguard" style="border: none;" /></a>
 

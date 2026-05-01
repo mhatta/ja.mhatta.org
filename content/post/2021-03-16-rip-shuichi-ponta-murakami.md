@@ -9,7 +9,7 @@ share = true
 featured = false
 image = "https://images-na.ssl-images-amazon.com/images/I/410NQ233DQL._AC_.jpg"
 archives = ["2021/03"]
-
+categories = ["jazz"]
 +++
 
 ドラマーの村上ポンタ秀一が亡くなった。享年70。

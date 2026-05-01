@@ -6,6 +6,8 @@ title: The MPS Trio Sessions / George Shearing
 url: /blog/2014/01/21/the-mps-trio-sessions-slash-george-shearing/
 image: "http://ecx.images-amazon.com/images/I/512oJAi33vL.jpg"
 description: ジョージ・シアリングは、高名な割にあまり聞かれていないような気がする。少なくとも現在の日本では。2年前までご存命だったんですけどねえ。
+archives: ["2014/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000VAH9Y4/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/512oJAi33vL.jpg" alt="Mps Trio Sessions" style="border: none;" /></a>
 

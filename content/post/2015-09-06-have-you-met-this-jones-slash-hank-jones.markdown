@@ -6,6 +6,8 @@ title: Have You Met This Jones? / Hank Jones
 url: /blog/2015/09/06/have-you-met-this-jones-slash-hank-jones/
 image: "http://ecx.images-amazon.com/images/I/51nq53%2BxGUL.jpg"
 description: 2年前、「このところMPSレーベルの再発が地味に進んでいてうれしいのだが（しかしいつまで経ってもバリー・ハリスやハンク・ジョーンズのトリオものは出ない）」とぼやいていたのだが、いつの間にか両方とも出ていた。ありがたいことである。本稿で取り上げるのはハンク・ジョーンズのほう。
+archives: ["2015/09"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00M2A9F3Y/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51nq53%2BxGUL.jpg" alt="Have You Met This Jones?" style="border: none;" /></a>

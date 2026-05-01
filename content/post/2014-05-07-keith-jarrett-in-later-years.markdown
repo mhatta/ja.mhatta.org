@@ -6,6 +6,8 @@ title: キース・ジャレットの晩年
 url: /blog/2014/05/07/keith-jarrett-in-later-years/
 image: "http://ecx.images-amazon.com/images/I/31JcYPjc4xL.jpg"
 description: 先日キース・ジャレットが大阪で一悶着起こしたと聞いて、いろいろ思うことがあった。
+archives: ["2014/05"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B008861THQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31JcYPjc4xL.jpg" alt="スリーパー" style="border: none;" /></a>
 

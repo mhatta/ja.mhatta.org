@@ -3,9 +3,11 @@ title = "The Modern Jazz Quartet Plays George Gershwin's Porgy and Bess"
 author = ["Masayuki Hatta"]
 date = 2026-05-01T20:46:00+09:00
 tags = ["jazz", "mjq"]
+categories = ["Jazz"]
 draft = false
 slug = "the-modern-jazz-quartet-plays-george-gershwin-s-porgy-and-bess"
 image = "https://m.media-amazon.com/images/I/51tRj58AfOL._AC_.jpg"
+archives = ["2026/05"]
 +++
 
 今時ありとあらゆる音楽がSpotifyなりApple Musicなりで配信されている気がするわけだが、意外なものがなぜか聞けないということもあって、[これ](https://amzn.to/4cWclQf)もその一つのようだ。

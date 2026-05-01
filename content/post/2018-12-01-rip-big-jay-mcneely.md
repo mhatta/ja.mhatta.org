@@ -9,6 +9,8 @@ slug = "rip-big-jay-mcneely"
 share = true
 featured = false
 image = "https://images-na.ssl-images-amazon.com/images/I/91trclJkp9L._SL1500_.jpg"
+archives = ["2018/12"]
+categories = ["jazz"]
 +++
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009HEARTE/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61C2UU3KYtL.jpg" alt="Road House Boogie" style="border: none;" /></a>

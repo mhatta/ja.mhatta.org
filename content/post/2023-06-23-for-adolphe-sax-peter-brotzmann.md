@@ -6,6 +6,8 @@ tags = ["jazz", "obit", "peter-brotzmann"]
 draft = false
 slug = "for-adolphe-sax-peter-brotzmann"
 image = "https://m.media-amazon.com/images/I/41jtBZ31pPL._AC_.jpg"
+archives = ["2023/06"]
+categories = ["jazz"]
 +++
 
 虫が知らせたというわけではなかったのだが、[昨日Machine Gunを取り上げた](https://ja.mhatta.org/blog/2023/06/22/machine-gun-peter-brotzmann/)ペーター・ブロッツマン（もしかしてブレッツマンが正しいのかな？）が、まさに昨日亡くなったらしい。享年82。晩年まで活動して不死身のような感じではあったが、まあ年齢的には大往生でしょうか。

@@ -6,6 +6,8 @@ title: Brotherman In The Fatherland / Rahsaan Roland Kirk
 url: /blog/2015/05/02/brotherman-in-the-fatherland-slash-rahsaan-roland-kirk/
 image: "http://ecx.images-amazon.com/images/I/51APUu1QUzL.jpg"
 description: 世間はゴールデンウィークだというのに仕事だし、その仕事がどいつもこいつもあまりにも進まないし、おまけに女の子には振られるし、ありとあらゆる点でうんざりしてきたので現実逃避にざっと訳してみた。このアルバムは内容も素晴らしいが、私が本当に好きなのは故ジョエル・ドーンによるライナーノーツだ。海千山千の音楽プロデューサーらしいひねくれた文章の味と、唐突に噴出するむき出しの愛がたまらない。俺もこういう文章が書きたいなあ。
+archives: ["2015/05"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000ERU7IY/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51APUu1QUzL.jpg" alt="Brotherman in the Fatherland" style="border: none;" /></a>

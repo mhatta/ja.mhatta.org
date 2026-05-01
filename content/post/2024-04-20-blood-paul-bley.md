@@ -6,6 +6,8 @@ tags = ["jazz", "paul-bley"]
 draft = false
 slug = "blood-paul-bley"
 image = "https://i.discogs.com/z761M1JfbC8gFAoWQJyHKGH3NTaor8YK93xpuet-oBU/rs:fit/g:sm/q:90/h:424/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDg4/NzItMTI5OTM1NDA1/Ni5qcGVn.jpeg"
+archives = ["2024/04"]
+categories = ["jazz"]
 +++
 
 [ポール・ブレイが遺した60年代ピアノ・トリオもの](https://ja.mhatta.org/blog/2016/01/05/paul-bleys-hardcore-piano-trios-in-1960s/)は大体において個人的好みのど真ん中なのですが、その中でもこの[Blood](https://amzn.to/3w488Zp)が一二を争う。その割に、ここまで不遇というか扱いが悪い作品も珍しい。

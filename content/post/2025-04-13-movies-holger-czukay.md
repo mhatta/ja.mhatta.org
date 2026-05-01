@@ -6,6 +6,8 @@ tags = ["jazz"]
 draft = false
 slug = "movies-holger-czukay"
 image = "https://upload.wikimedia.org/wikipedia/en/7/71/Holger_Czukay_-_Movies.jpg"
+archives = ["2025/04"]
+categories = ["jazz"]
 +++
 
 今ごろになって[短波ラジオを買って](https://www.mhatta.org/wp/2025/04/13/tecsun-pl-380-radio-review/)喜んで聴いているのだが、音楽で短波というと思い出されるのはこれでしょうか。

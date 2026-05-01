@@ -9,6 +9,8 @@ slug = "more-on-baby-its-cold-outside"
 share = true
 featured = false
 image = "https://images-na.ssl-images-amazon.com/images/I/51gArJjSIaL._SY450_.jpg"
+archives = ["2018/12"]
+categories = ["jazz"]
 +++
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4807408151/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41fVfl5MF0L.jpg" alt="イスラーム原理主義の「道しるべ」" style="border: none;" /></a>

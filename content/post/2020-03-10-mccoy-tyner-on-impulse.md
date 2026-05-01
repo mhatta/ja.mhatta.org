@@ -10,6 +10,7 @@ share = true
 featured = false
 image = "https://m.media-amazon.com/images/I/51k+fcD2UyL._AC_.jpg"
 archives = ["2020/03"]
+categories = ["jazz"]
 +++
 
 マッコイ・タイナーが亡くなった。享年81。これで、ジョン・コルトレーンが率いたいわゆる「黄金カルテット」のメンバ――コルトレーン、タイナー、ジミー・ギャリソン、エルヴィン・ジョーンズ――は全員この世を去ったことになる。

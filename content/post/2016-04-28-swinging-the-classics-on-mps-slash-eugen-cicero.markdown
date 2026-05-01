@@ -6,6 +6,8 @@ title: Swinging the Classics on MPS / Eugen Cicero
 url: /blog//2016/04/28/swinging-the-classics-on-mps-slash-eugen-cicero/
 image: http://ecx.images-amazon.com/images/I/51k9Zb4tD-L.jpg
 description: ジャズでまがい物扱いされる最たるものは、クラシック音楽のジャズ化ではないか。
+archives: ["2016/04"]
+categories: ["jazz"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000GW8OSW/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51k9Zb4tD-L.jpg" alt="Swinging the Classics on Mps" style="border: none;" /></a>

@@ -6,6 +6,8 @@ tags = ["jazz", "jack-dejohnette", "obit"]
 draft = false
 slug = "jackeyboard-jack-dejonette"
 image = "https://m.media-amazon.com/images/I/51pLt-g-qTL._AC_.jpg"
+archives = ["2025/11"]
+categories = ["jazz"]
 +++
 
 ジャック・デジョネット、亡くなってしまいましたね。享年83。それなりに高齢ではあったが、最近も[未発表秘蔵テープの発表](https://ja.mhatta.org/blog/2024/12/05/forces-of-nature-live-at-slug-s-mccoy-tyner-and-joe-henderson/)に協力したりしていて元気だと思っていたので驚いた。

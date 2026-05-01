@@ -6,6 +6,8 @@ title: Capchin Swing / Jackie McLean
 url: /blog/2014/01/12/capchin-swing-slash-jackie-mclean/
 image: "http://ecx.images-amazon.com/images/I/51a8WvtSTeL.jpg"
 description: 本格的にアヴァンギャルドにかぶれる前のジャッキー・マクリーンのブルーノート録音というとSwing Swang Swingin'が有名だが、これはその次に出したアルバム。前者はレパートリーをスタンダード・ナンバーで固め、マクリーンのワンホーン・カルテットでベースがジミー・ギャリソンという陣容だったが、こちらはレパートリーがオリジナル曲中心、トランペットにブルー・ミッチェルが入ったクインテット編成で、ベースがポール・チェンバースという違いがある。
+archives: ["2014/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00006C77C/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51a8WvtSTeL.jpg" alt="Capuchin Swing" style="border: none;" /></a>
 

@@ -6,6 +6,8 @@ title: Chasin' The Bird / Barry Harris
 url: /blog/2013/01/06/chasin-the-bird-slash-barry-harris/
 image: "http://ecx.images-amazon.com/images/I/513JMU-57XL.jpg"
 description: 先日、久しぶりに中古CD屋へ行ってしこたま買い込んできたのだが、掘り出し物が多くて喜んでいる。掘り出し物といっても珍しいものではなく、よく知っている人のあまり有名ではない作品が、予想以上に良かったので驚いた、という話だ。こういうもののほうが、期待していないだけうれしいものである。
+archives: ["2013/01"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000000Z1T/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/513JMU-57XL.jpg" alt="Chasin the Bird" style="border: none;" /></a>
 

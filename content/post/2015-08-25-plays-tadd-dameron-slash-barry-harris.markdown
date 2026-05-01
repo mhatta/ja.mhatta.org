@@ -6,6 +6,8 @@ title: Plays Tadd Dameron / Barry Harris
 url: /blog/2015/08/25/plays-tadd-dameron-slash-barry-harris/
 image: "http://ecx.images-amazon.com/images/I/51AzpnLyd-L.jpg"
 description: Elemental Musicという2012年設立の新しいレーベルが、Xanadu Master Edition Seriesと銘打って、Xanaduレーベルの体系だった再発を手がけるそうだ。とりあえず今年から来年にかけて25作ばーんと出すらしい。喜ばしいことである。有り難いことである。奇特なことである。
+archives: ["2015/08"]
+categories: ["jazz"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00WV7EDDK/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51AzpnLyd-L.jpg" alt="Plays Tadd Dameron" style="border: none;" /></a>
 
