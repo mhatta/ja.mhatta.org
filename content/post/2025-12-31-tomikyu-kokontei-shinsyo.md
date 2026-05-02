@@ -7,7 +7,7 @@ draft = false
 slug = "tomikyu-kokontei-shinsyo"
 image = "https://m.media-amazon.com/images/I/617B7rJpubL._AC_SL1014_.jpg"
 archives = ["2025/12"]
-categories = ["jazz"]
+categories = ["Rakugo"]
 +++
 
 寒い大晦日に聞きたくなるものと言えば、[五代目古今亭志ん生](https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%8A%E4%BA%AD%E5%BF%97%E3%82%93%E7%94%9F_(5%E4%BB%A3%E7%9B%AE))の落語「[富久](https://ja.wikipedia.org/wiki/%E5%AF%8C%E4%B9%85)」である。

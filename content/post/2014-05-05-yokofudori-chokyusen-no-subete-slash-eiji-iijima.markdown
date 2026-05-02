@@ -7,7 +7,7 @@ url: /blog/2014/05/05/yokofudori-chokyusen-no-subete-slash-eiji-iijima/
 image: "http://ecx.images-amazon.com/images/I/51%2BUcizfwRL.jpg"
 description: 子供のころ愛読していた将棋の本に「超急戦!!殺しのテクニック」というのがあった。いわゆるハメ手というか奇襲戦法を多く紹介というありがちな本だが、本のタイトルも派手なら各セクションのタイトルも派手で、やれ「鎖鎌銀相討ち事件」やら「四間飛車に贈る鎮魂歌（レクイエム）」やらとミステリ風に凝った章題が付けられており、棋書らしからぬ洒落っ気を見せていたものだ。
 archives: ["2014/05"]
-categories: ["Books"]
+categories: ["Shogi"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4839950806/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51%2BUcizfwRL.jpg" alt="横歩取り超急戦のすべて" style="border: none;" /></a>

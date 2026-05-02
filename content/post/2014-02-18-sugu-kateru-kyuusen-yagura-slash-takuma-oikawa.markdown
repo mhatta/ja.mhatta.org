@@ -7,7 +7,7 @@ url: /blog//2014/02/18/sugu-kateru-kyuusen-yagura-slash-takuma-oikawa/
 image: "http://ecx.images-amazon.com/images/I/519Ede2OF6L.jpg"
 description: 子供のころは将棋が好きで、さすがに町道場等には通わなかったものの、学校で友達と結構指していた。羽生七冠フィーバーのころの話。
 archives: ["2014/02"]
-categories: ["books"]
+categories: ["shogi"]
 ---
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4839946078/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/519Ede2OF6L.jpg" alt="すぐ勝てる!急戦矢倉 (マイナビ将棋BOOKS)" style="border: none;" /></a>

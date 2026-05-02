@@ -7,7 +7,7 @@ url: /blog/2013/05/13/theme-time-radio-hour-with-your-host-bob-dylan/
 image: "http://ecx.images-amazon.com/images/I/41FHlnuyiXL.jpg"
 description: 数年前、正確には2006年から2009年にかけて、ボブ・ディランがアメリカの衛星ラジオ向け番組でなぜかDJをやっていた、という話は知っていて、いくつかの回に関しては若干アレな手段で聞いたこともあった。Amazonなどを検索すると「Theme Time Radio Hour」の名を冠したCDが何枚か見つかるが、それらは番組で取り上げられた曲の音源のみ収録で、ディランの語りは入っていないのである。
 archives: ["2013/05"]
-categories: ["etc"]
+categories: ["rock"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0013LFOGA/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41FHlnuyiXL.jpg" alt="ボブ・ディランのテーマ・タイム・ラジオ・アワー" style="border: none;" /></a>
 
